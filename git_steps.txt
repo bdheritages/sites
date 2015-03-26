@@ -1,0 +1,88 @@
+Create a repo on Github web account. At this point it is empty.
+
+# there is a file on github account, get it, edit it and update it back to github
+
+# at shell, be in root folder - ~/Documents/GitHub
+$ git clone https://github.com/bdheritages/sites.git
+
+# at this point there will be a new folder under ~/Documents/GitHub folder
+# folder name is "sites" (cloned from web)
+
+$ cd sites
+
+# ~/Documents/GitHub/sites
+$ ls -la   	# 4 files shown: ., .., .git and readme.md
+
+# under ~/Documents/GitHub/sites
+$ git status 	
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Nothing to commit
+
+# copy allsites.txt file to sites folder
+$ git status      	# shows untracked file present
+
+# use "git add" to track
+$ git add "allsites.txt"		# $ git status shows new file allsites.txt
+
+# commit the changes - file still in local machine
+$ git commit -m "Put the file online"		# shows 1 file changed.
+
+# now push changes to github remote (web)
+# under ~/Documents/GitHub/sites
+$ git push
+
+# shows the coming changes to git software
+# then asks for password
+$Username for 'https://github.com': bdheritages
+$Password for 'https://github.com': ********
+
+# ~/Documents/GitHub/sites (master)
+$ git status
+On branch master
+Your branch is up-to-date with 'origin/master'.
+
+Result: Check the remote web version – should be updated with new text.
+
+
+----------- until March 26, 2015 -------------------
+Open Git shell
+
+#check status
+git status
+git config user.name
+git config user.email
+
+or:
+git config --global user.name "[name]"
+git config --global user.email "[email@email.com]"
+git config --global color.ui auto
+
+# also set the user in GitHub GUI interface
+
+# check status again
+git status
+
+# create a new directory for the project using the init command
+git init cppdemos
+
+# cd to the new project directory????
+
+git clone https://github.com/OronnyaGmail/intensive-cpp-demos.git
+
+git checkout 
+
+
+
+
+ls  # nothins is showing
+
+ls -al   # shows .git 
+
+tree .git | more   # shows full information
+
+git status  # shows 'nothing to commit ...'
+
+$ project1 (master)     # default branch called master  (15:00)
+
+notepad first.txt    # create a text file and save under project folder

@@ -1,0 +1,19 @@
+AllBDSites location from DMS to DD
+
+1. Keep master table E:\BDArchaeology\DatabaseFinalStaging\AllSitesTables.gdb\AllBDSites as is. 
+
+2. Add new coordinates in DMS or any other format.
+
+3. Update ORIGID with calculate field tool so that it has most recent OIDs included.
+
+4. Run Convert Coordinate Notation on AllBDSites table - records with valid coordinates are in output AllBDSites_ccn
+
+5. Run Join Field with OBJECTID of AllBDSites and ORIGID of AllBDSites_ccn and transfer DDLat and DDLon fields.
+
+6. AllBDSites will have two new fields: DDLat and DDLon
+
+7. Run SearchCursor will all fields - replacing LAT with DDLat and LONG with DDLon
+
+8. Iterate through records and pass all info into a tab-separated text file (and possiblly a coma-separated text file)
+
+9. Name file in step# 8 as allsites.txt - update GitHub file.
