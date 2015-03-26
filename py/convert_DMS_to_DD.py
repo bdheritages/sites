@@ -9,6 +9,22 @@ rows = arcpy.da.SearchCursor(fc, fnames)
 f = open(r'E:\BDArchaeology\DatabaseFinalStaging\allsites.txt', 'w')
 
 for r in rows:
-    f.writelines("{}\t{}\t{}\t{}\t{}\t{}\t{}\n".format(r[0], r[1], r[2], r[3], r[4], r[5], 5[6]))
+    oid = r[0]
+    #print(type(oid))
+    sitename = r[1]
+    #print(type(sitename))
+    ddlat = r[2]
+    #print(type(ddlat))
+    ddlon = r[3]
+    #print(type(ddlon))
+    zilla = r[4]
+    #print(type(zilla))
+    uzilla = r[5]
+    #print(type(zilla))
+    siteid = r[6]
+    #print(type(siteid))
+    source = r[7]
+    #print(type(source))
+    f.writelines("{}\t{}\t{}\t{}\t{}\t{}\t{}\t{}\n".format(oid, sitename, ddlat, ddlon, zilla, uzilla, siteid, source))
     
 f.close()

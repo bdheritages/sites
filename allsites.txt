@@ -1,675 +1,662 @@
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Shalban Vihara 		Comilla 	Sadar 	DofA
-2 	Laticot Mura 		Comilla 	Sadar 	DofA
-3 	Corneller Mura 		Comilla 	Sadar 	DofA
-4 	Ananda Vihara 		Comilla 	Sadar 	DofA
-5 	Kotila Mura 		Comilla 	Sadar 	DofA
-6 	Charpatra Mura 		Comilla 	Sadar 	DofA
-7 	Rupban Mura 		Comilla 	Sadar 	DofA
-8 	Itakhola Mura 		Comilla 	Sadar 	DofA
-9 	Bairagir Mura 		Comilla 	Sadar 	DofA
-10 	Balagajir Mura 		Comilla 	Sadar 	DofA
-11 	Chandi Mura 		Comilla 	Sadar 	DofA
-12 	Chila Mura 		Comilla 	Sadar 	DofA
-13 	Hatigara Mura 		Comilla 	Sadar 	DofA
-14 	Pacca Mura 		Comilla 	Sadar 	DofA
-15 	Ujirpur Mound 		Comilla 	Sadar 	DofA
-16 	Rupban Kannyar (Rupbani) Mura 		Comilla 	Sadar 	DofA
-17 	Kotbari Mura 		Comilla 	Sadar 	DofA
-18 	Bhoj Rajar palace 		Comilla 	Sadar 	DofA
-19 	Palace & Temple of Queen Mainamati 		Comilla 	Sadar 	DofA
-20 	Mainamati Mound-1 		Comilla 	Sadar 	DofA
-21 	Mainamati Mound-1A 		Comilla 	Sadar 	DofA
-22 	Mainamati Mound-1B 		Comilla 	Kotowali 	DofA
-23 	Mainamati Mound-2A 		Comilla 	Kotowali 	DofA
-24 	Mainamati Mound-2B 		Comilla 	Kotowali 	DofA
-25 	Satara Ratna Temple 		Comilla 	Kotowali 	DofA
-26 	Chitodda Mosque 		Comilla 	Barura 	DofA
-27 	Arjuntala Mosque 		Comilla 	Barura 	DofA
-28 	Math of Sattaya Ram Majumdar 		Chandpur 	Haziganj 	DofA
-29 	Bakhtiar Khar Mosque 		Chandpur 	Kochua 	DofA
-30 	Bara Sharifpur Mosque 		Chandpur 	Laksam 	DofA
-31 	Jatra Monir Math 		Chandpur 	Kachua 	DofA
-32 	Alipur Shahi Mosque 		Chandpur 	Haziganj 	DofA
-33 	Bajra Shahi Mosque 	Yes 	Noakhali 	Begamganj 	DofA
-34 	Gandhi Ashram 	Yes 	Noakhali 		Sazz
-35 	Kamankhola Zominder Bari 		Laxipur 		Sazz
-36 	Tita Khan Masjid 	Yes 	Laxipur 		Sazz
-37 	Motka Masjid 	Yes 	Laxipur 	Sadar 	Sazz
-38 	Dalal Zominder Bari 	Yes 	Laxipur 	Dalalbazar 	Sazz
-39 	Khoya Sagor 	Yes 	Laxipur 	Dalalbazar 	Sazz
-40 	Zeener Masjid 	Yes 	Laxipur 	Raypur 	Sazz
-41 	Silua Mound and Image 		Feni 	Chagalnayya 	DofA
-42 	Chandgaji Bhuiyan Mosque 	Yes 	Feni 	Chagalnayya 	DofA
-43 	Shamsher gazir Kellah 		Feni 	Chagalnayya 	DofA
-44 	Mohammad Ali Chowdhury Mosque 		Feni 	Sadar 	DofA
-45 	Sharshadi Shahi Mosque 		Feni 	Sadar 	DofA
-46 	Sat Math (Seven Temple??) 	Yes 	Feni 	Chagalnayya 	DofA
-47 	Ulchapaara Shahi Mosque 		Brahmanbaria 	Sadar 	DofA
-48 	Arifail Mosque 		Brahmanbaria 	Sarail 	DofA
-49 	Arifail Mazar (Tomb) 		Brahmanbaria 	Sarail 	DofA
-50 	Bariura old Bridge 	Yes 	Brahmanbaria 	Sarail 	DofA
-51 	Ramzan Miah Jami Mosque 		Noakhali 	Kabirhat 	DofA
-52 	Arphail twin graves(early 16th century) 	Yes 	Brahmanbaria 	Sarail 	FZaman
-53 	Temple of Kalbhairab 	Yes 	Brahmanbaria 	Madda 	FZaman
-54 	Muktizuddher Shahid koborsthan 	Yes 	Brahmanbaria 	Kasba 	FZaman
-55 	Monument of martyrs of liberation war 	Yes 	Brahmanbaria 	None 	FZaman
-56 	Lohagorh Moth 	Yes 	Chandpur 	Faridganj 	FB
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Bakshi Hamid Mosque 		Chittagong 	None 	DofA
-2 	Shamser Gazir Kellah 		Chittagong 	None 	DofA
-3 	Alwal Mosque 		Chittagong 	None 	DofA
-4 	Fatehpur Inscription 		Chittagong 	None 	DofA
-5 	Buddha dhatu jadi temple 		Bandarban 	None 	???DofA
-6 	Pagoda 	Yes 	Coxs Bazar 	None 	FZaman
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Temple of Sree Chaitanya 		Sylhet 	Golapganj 	DofA
-2 	Gayebi Dighi Mosque 		Sylhet 	Zakiganj 	DofA
-3 	Group of Megalithic Tombs 		Sylhet 	Joyntapur 	DofA
-4 	Shah Jalal Dargah 	Yes 	Sylhet 	Sadar 	DofA
-5 	Shah Paran Dhargah 	Yes 	Sylhet 	Sadar 	DofA
-6 	M C College 	Yes 	Sylhet 		Sazz
-7 	Hazrat Shahjalal's Tomb 	Yes 	Sylhet 		Sazz
-8 	Kean Bridge 	Yes 	Sylhet 		
-9 	Ali Amzad Clock 	Yes 	Sylhet 		
-10 	Circuit House 	Yes 	Sylhet 		
-11 	Lakkatura Tea Garden 	Yes 	Sylhet 		
-12 	Bhatera tila Mound 				DofA
-13 	Jaintiaswari Bari 				DofA
-14 	Front of Jaintaswari 				DofA
-15 	Irabati Pantha Shala 				DofA
-16 	Uchail Mosque 		Habiganj 	Sadar 	DofA
-17 	Bithangol Bora Akhra 		Habiganj 	Baniachang 	DofA
-18 	Baniachong Rajbari 	Yes 	Hobiganj 	Baniachang 	Sazz
-19 	Baniachong Masjid 	Yes 	Hobiganj 	Baniachang 	Sazz
-20 	Bithalong Akhra 	Yes 	Hobiganj 	Baniachang 	
-21 	Songkorpasha Masjid 	Yes 	Hobiganj 		
-22 	Teen Madir Raja Gambhir Singh 		Sylhet 	None 	DofA
-23 	Boter Taal 		Sylhet 	None 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Nasrat Gazi Mosque 		Barisal 	Bakerganj 	DofA
-2 	Joint Mosque at Bhatikhana 		Barisal 		Sazz
-3 	Sujabad Kella 		Barisal 		Sazz
-4 	Sangram Kella 		Barisal 		Sazz
-5 	Girja Mahalla 		Barisal 		Sazz
-6 	Ebadullah Mosque 		Barisal 		Sazz
-7 	Kali Bari of Mukunda Das 	Yes 	Barisal 		Sazz
-8 	Kasai Mosque 	Yes 	Barisal 		Sazz
-9 	Kashba Mosque (One domed?) 		Barisal 	Gaurnadi 	DofA
-10 	Sarkar's Math (or Shankar's?) 	Yes 	Barisal 	Gaurnadi 	DofA
-11 	Kamalapur Mosque 		Barisal 	Gaurnadi 	DofA
-12 	Karapur Mia Bari Mosque 		Barisal 	Barisal 	DofA
-13 	Bibir Pukur 	Yes 	Barisal 	Barisal 	Sazz
-14 	Bibi Chini Mosque 		Barguna 	Betagi 	DofA
-15 	Shrirampur Mosque 		Patuakhali 	Sadar 	DofA
-16 	Late Amirullah Munshibari Jami Mosque 		Patuakhali 	Dosmina 	DofA
-17 	Kachichira Jami Mosque 		Patuakhali 	Patuakhali 	DofA
-18 	Double Roofed Grave 		Patuakhali 	Patuakhali 	DofA
-19 	Ancient Bridge 		Patuakhali 	Patuakhali 	DofA
-20 	Galua Pucca Mosque 		Jhalakathi 	Rajapur 	DofA
-21 	Mothbaria Momin Mosque 		Pirojpur 	Mothbaria 	DofA
-22 	Amirabad Moghali Masjid 	Yes 	Barisal 		Sazz
-23 	Madhobpasha Zominder Bari 	Yes 	Barisal 		Sazz
-24 	Mia Bari Masjid 	Yes 	Barisal 		Sazz
-25 	Kasba Allah'r Masjid 	Yes 	Barisal 	Gauranadi 	Sazz
-27 	Mansa Temple at Goila 		Barisal 		Sazz
-28 	Durgasagar Dighi 	Yes 	Barisal 		Sazz
-29 	Charkella 		Barisal 		Sazz
-30 	Oxford Church 	Yes 	Barisal 		Sazz
-31 	Bell's Park 	Yes 	Barisal 		Sazz
-32 	Ashwini kumar town hall 	Yes 	Barisal 		Sazz
-33 	Khanbari Old Jame Mosque Complex 		Jhalakathi 	Rajapur 	DofA
-34 	Rammohan Samadhi Mandir 	Yes 	Barisal 		Sazz
-35 	Birth Place of Poet Bijoy Gupta 	Yes 	Barisal 		Sazz
-36 	Birth-place of A.K.M. Fazlul Hoque 	Yes 	Jhalakathi 	Rajapur 	DofA
-38 	Ancient Jami Mosque 		Jhalakathi 	Rajapur 	DofA
-39 	Collectorate Bhaban 		Barisal 	None 	DofA
-40 	Dahar Shankar Howladerbari Jami Mosque Complex 		Jhalakathi 	Rajapur 	DofA
-41 	Sikder Bari Jami Mosque 		Patuakhali 	None 	DofA
-42 	Mosjid Baria Mosque 		Patuakhali 	Mirajganj 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	House of Michael Madhusudan Dutta 		Jessore 	Keshabpur 	DofA
-2 	Memorial Sculpture of Madhusudan Dutta 		Jessore 	Keshabpur 	DofA
-3 	Bharat Bhayna 		Jessore 	Keshabpur 	DofA
-4 	4 Room Hamman Khana at Mirzanagar Nabab Bari 		Jessore 	Keshabpur 	DofA
-5 	Sheikhpur Jami Mosque 		Jessore 	Keshabpur 	DofA
-6 	Imambara of Haji Mohammad Mohsin 		Jessore 	Jessore 	DofA
-7 	Chanchra Siva Temple 		Jessore 	Jessore 	DofA
-8 	Dam Dam Pir sthan Dhibi 		Jessore 	Manirampur 	DofA
-9 	Kayem Khola Mosque 		Jessore 	Jhikargacha 	DofA
-10 	Eleven Siva Temple 	Yes 	Jessore 	Avaynagar 	DofA
-11 	Dhulgram Shiva Temple 	Yes 	Jessore 	Avaynagar 	Sazz
-12 	Pir Khanjahan Ali Jame Mosque 		Jessore 	Avaynagar 	DofA
-13 	Dosh Moha Bidya Mondir 	Yes 	None 	Chanchrha 	Sazz
-14 	Shiv Mandir 	Yes 	None 	Chanchrha 	Sazz
-15 	Shahi Mosque 		Jessore 	Shailakupa 	DofA
-16 	Jor Bangla Temple 		Narail 	Lohagara 	DofA
-17 	Gorar Mosque 	Yes 	Jhenaidah 	Kaliganj 	DofA
-18 	Palace of Mukut Raja 		Jhenaidah 	Kaliganj 	DofA
-19 	Pathagar Dhibi 		Jhenaidah 	Kaliganj 	DofA
-20 	Jor Bangla Masjid 	Yes 	????? 	None 	Sazz
-21 	Jor Bangla Dhibi 		Jhenaidah 	Kaliganj 	DofA
-22 	Kharer Dighi Dhibi 		Jhenaidah 	Kaliganj 	DofA
-23 	Monohar Dighi Mosque 	Yes 	Jhenaidah 	Kaliganj 	DofA
-24 	Badedihi Mound 		Jhenaidah 	Kaliganj 	DofA
-25 	Namaj Gaon 		Jhenaidah 	Kaliganj 	DofA
-26 	Dam Dam Dhibi 		Jhenaidah 	Kaliganj 	DofA
-27 	Ghoper Dhibi 		Jhenaidah 	Kaliganj 	DofA
-28 	Shingdaha Aulia Mosque 		Jhenaidah 	Kaliganj 	DofA
-29 	Satgachia Gaibana Mosque 	Yes 	Jhenaidah 	Kaliganj 	DofA
-30 	Zahaj Ghata 		Jhenaidah 	Kaliganj 	DofA
-31 	Galakata Dighi Dhibi Mosque 	Yes 	Jhenaidah 	Kaliganj 	DofA
-32 	Pirpukur Mound 	Yes 	Jhenaidah 	Kaliganj 	DofA
-33 	Nungola Mound 	Yes 	Jhenaidah 	Kaliganj 	DofA
-34 	Shukur Mallik Mound 	Yes 	Jhenaidah 	Kaliganj 	DofA
-35 	Ganitik K P Bose 	Yes 	None 	None 	Sazz
-36 	Chompaboti home 	Yes 	None 	None 	Sazz
-37 	Jomider Selim Chowdhury 	Yes 	None 	None 	Sazz
-38 	Jomider Nobi Chowdhury 	Yes 	None 	None 	Sazz
-39 	Noldanga Rajbari 	Yes 	None 	None 	Sazz
-40 	Noldanga Mondir 	Yes 	None 	None 	Sazz
-41 	Gazi Kalu Tomb 	Yes 	None 	None 	Sazz
-42 	Charakdani Masjid 	Yes 	None 	None 	Sazz
-43 	Diknagar Mound 		Jhenaidah 	Harinakunda 	DofA
-44 	Dr Nihar Ranjan Gupter bari 		Narail 	Lohagara 	DofA
-45 	Nilkuthi of Khalishpur 		Jhenaidah 	Moheshpur 	DofA
-46 	Pancharatna Mandir (Bhisnu Temple) 		Jhenaidah 	Jhenaidah 	DofA
-47 	House of Raja Sita Ram Roy 		Magura 	Mohammedpur 	DofA
-48 	Dasa Bhuja Temple 		Magura 	Mohammedpur 	DofA
-49 	Krishna Temple 		Magura 	Mohammedpur 	DofA
-50 	Dol Mancha 		Magura 	Mohammedpur 	DofA
-51 	Bhat Vita Mound 		Magura 	Magura 	DofA
-52 	Kuthibari of Tagore Shilaidah 		Kushtia 	Kumarkhali 	DofA
-53 	Jhaudia Shahi Mosque 		Kushtia 	Sadar 	DofA
-54 	Amjhupi Nilkuthi 		Meherpur 	Sadar 	DofA
-55 	Probajpur Shahi Mosque 		Jhenaidah 	Kaliganj 	DofA
-56 	Kachari Bari and Pond of Raja Sitaram 		Magura 	Mohammedpur 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Khulna BL College 		Khulna 	Khulna City 	Mhbb
-2 	Prem Kanon 		Khulna 	Khulna City 	Mhbb
-3 	Jora Shiv Mandir 		Khulna 	Khulna City 	Mhbb
-4 	Keshab Chandra Shangskritik Toll 		Khulna 	Khulna City 	Mhbb
-5 	Monument 		Khulna 	Khulna City 	Mhbb
-6 	Bhuban Ghosh Residence 		Khulna 	Khulna City 	Mhbb
-7 	Shishu Biddyalay 		Khulna 	Khulna City 	Mhbb
-8 	Selim Hotel (Tourism Corporation) 		Khulna 	Khulna City 	Mhbb
-9 	Banga Khali pre-Cadet School 		Khulna 	Khulna City 	Mhbb
-10 	Dak Bangla (Rest House) 		Khulna 	Khulna City 	Mhbb
-11 	Ispahani Building 		Khulna 	Khulna City 	Mhbb
-12 	Kumud Ghosh Residence 		Khulna 	Khulna City 	Mhbb
-13 	Khan-e-Sabur Bhaban 		Khulna 	Khulna City 	Mhbb
-14 	Niharika Bhaban 		Khulna 	Khulna City 	Mhbb
-15 	Shailendranath Residence 		Khulna 	Khulna City 	Mhbb
-16 	Monomohan Maternity Hospital 		Khulna 	Khulna City 	Mhbb
-17 	Zilla Parishad Bhaban 		Khulna 	Khulna City 	Mhbb
-18 	Divisional Forest Office 		Khulna 	Khulna City 	Mhbb
-19 	Civil Surgeon Residence 		Khulna 	Khulna City 	Mhbb
-20 	Khulna Circuit House 		Khulna 	Khulna City 	Mhbb
-21 	District Judge Court Building 		Khulna 	Khulna City 	Mhbb
-22 	Collectorate Bhaban 		Khulna 	Khulna City 	Mhbb
-23 	Nagar Bhaban 		Khulna 	Khulna City 	Mhbb
-24 	Bisram Niketan 		Khulna 	Khulna City 	Mhbb
-25 	Masjeed Kur Mosque 		Khulna 	Koyra 	DofA
-26 	House of Father-in-Law of Robindranath 		Khulna 	Fultala 	DofA
-27 	House of Sir Prafulla Chandra Roy 		Khulna 	Paikgacha 	DofA
-28 	Dhopa Khola Mosque 		Khulna 	Koyra 	DofA
-29 	Three Domed Mosque 		Khulna 	Fultala 	DofA
-30 	Shat Gumbad Mosque 	Yes 	Bagerhat 	Bagerhat 	DofA
-31 	Nine domed Mosque 	Yes 	Bagerhat 	Bagerhat 	DofA
-32 	Rana Vijoypur Mosque 	Yes 	Bagerhat 	Bagerhat 	DofA
-33 	Singair Mosque 	Yes 	Bagerhat 	Bagerhat 	DofA
-34 	Bibi Begni Mosque 	Yes 	Bagerhat 	Bagerhat 	DofA
-35 	Chuna Khola Mosque 	Yes 	Bagerhat 	Bagerhat 	DofA
-36 	Reja Khoda Mosque 	Yes 	Bagerhat 	Bagerhat 	DofA
-37 	Ulugh Khan Jahan Mosque & Residence 	Yes 	Bagerhat 	Bagerhat 	DofA
-38 	One Dome Mosque Near Khan Jahan's Tomb 		Bagerhat 	Bagerhat 	DofA
-39 	Tomb of Khan Jahan 	Yes 	Bagerhat 	Bagerhat 	DofA
-40 	Tomb of Peer Ali 		Bagerhat 	Bagerhat 	DofA
-41 	Shabek Danga Monument 		Bagerhat 	Bagerhat 	DofA
-42 	Kodla Math 	Yes 	Bagerhat 	Bagerhat 	DofA
-43 	Zinda Pir Tomb & Masjid 	Yes 	None 		Sazz
-44 	Jor Bangla Mandir 		None 		Sazz
-45 	Babu Deben Ghosh 	Yes 	None 		Sazz
-46 	Sona Masjid 		None 		Sazz
-47 	Durgapur Shiva Math 		None 		Sazz
-49 	Ancient Road built by Khan Jahan 		Bagerhat 	Bagerhat 	DofA
-50 	Ten-domed Mosque 		Bagerhat 	Bagerhat 	DofA
-51 	Adina Arch. Mound 		Bagerhat 	Bagerhat 	DofA
-52 	Tetulia Zami Mosque 		Satkhira 	Tala 	DofA
-53 	Iswaripur Hammam Khana 		Satkhira 	Shyamnagar 	DofA
-54 	Hammam & Adjacent Archaeological Sites 		Satkhira 	Shyamnagar 	DofA
-55 	Probajpur Shahi Mosque 		Satkhira 	Kaliganj 	DofA
-56 	Mound adjacent to Govinda Deva temple 		Satkhira 	Shyamnagar 	DofA
-57 	Jhurijara Mound 		Satkhira 	Tala 	DofA
-58 	Darbar Stamva 		Satkhira 	Tala 	DofA
-59 	Church of Jesus 		Satkhira 	Shyamnagar 	DofA
-60 	Temple of Joshoreshari 		Satkhira 	Shyamnagar 	DofA
-61 	Temple of Sham Shundar 		Satkhira 	Kalaroa 	DofA
-62 	Kothabarir Than 		Satkhira 	Kalaroa 	DofA
-63 	Chaygharia Jora Siva Temple 		Satkhira 	Satkhira 	DofA
-64 	Temple of Annapurna 		Satkhira 	Satkhira 	DofA
-65 	Jamindar Bari Jame Mosque 		Satkhira 	Satkhira 	DofA
-66 	Twelve Shiva Temple 		Satkhira 	Assasuni 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Dholhat Temple 		Thakurgaon 	Sadar 	DofA
-2 	Jamalpur Jami Mosque 		Thakurgaon 	Sadar 	DofA
-3 	Mithapukur Mosque 		Rangpur 	Mithapukur 	DofA
-4 	Batashan Mound 		Rangpur 	???? 	???DofA
-5 	Begum Rokya's House 		Rangpur 	Mithapukur 	DofA
-6 	Fulchowki Mosque 		Rangpur 	Mithapukur 	DofA
-7 	Dargah of Shah Ismail Gaji 		Rangpur 	Pirganj 	DofA
-8 	Bagduar Mound 		Rangpur 	Mithapukur 	DofA
-9 	Chaprakot Mound 		Rangpur 	Badarganj 	DofA
-10 	Laldighi Nine domed Mosque & Tomb. 		Rangpur 	Badarganj 	DofA
-11 	Tajhat Jamindar Bari 		Rangpur 	Sadar 	DofA
-12 	Dariar Durga Mound 		Gaibandha 	Palashbari 	DofA
-13 	Kataduar Dargah 		Rangpur 	Sadar 	DofA
-14 	Bhitor Garh Fort? 	Yes 	Panchagarh 		FB
-15 	Mirzapur Shahi Mosque 		Panchagarh 	Atowari 	DofA
-16 	Imambara (Atowari) 		Panchagarh 	Atowari 	DofA
-17 	Bodeshwari Temple 		Panchagar 	Boda 	DofA
-18 	Golok Dham Temple 		Panchagarh 	Debiganj 	DofA
-19 	Dharmapaler Garh 		Nilphamari 	Jaldhaka 	DofA
-20 	Nidaria Mosque 		Lalmonirhat 	Sadar 	DofA
-21 	Birat Rajar Bari & Mound 		Gaibandha 	Gabindaganj 	DofA
-22 	Fort Mound 		Dinajpur 	Bangarh 	DofA
-23 	Dargah of Shah Ata 		Dinajpur 	Gongarampur 	DofA
-24 	Ancient Kazi Mosque 		Dinajpur 	Ulipur 	DofA
-25 	Sardarpara Jami Mosque 		Kurigram 	Kurigram 	DofA
-26 	Mekurtan Shahi Mosque 		Kurigram 	Rajarhat 	DofA
-27 	Ramsagar Temple 		Dinajpur 	Sadar 	DofA
-28 	Sura Mosque 		Dinajpur 	Ghoraghat 	DofA
-29 	Ancient Mosque (Nayabad) 		Dinajpur 	Kaharol 	DofA
-30 	Ancient Temple 		Dinajpur 	Kaharol 	DofA
-31 	Kantanagar Temple 		Dinajpur 	Kaharol 	DofA
-32 	Sita Kot Bihar 		Dinajpur 	Nababganj 	DofA
-33 	Arun Dhap 		Dinajpur 	Nababganj 	DofA
-34 	Chor Chakravorty's Mound 		Dinajpur 	Nababganj 	DofA
-35 	Kanchir Hari 		Dinajpur 	Nababganj 	DofA
-36 	Vishnu Temple at Chandipar 	Yes 	None 	Birampur 	Sazz
-37 	Early Pala Hindu Temple, Belwa 	Yes 	None 	Ghoraghat 	Sazz
-38 	Ghoraghat Fort 		Dinajpur 	Ghoraghat 	DofA
-39 	Baro Paiker Garh 		Dinajpur 	Ghoraghat 	DofA
-40 	Baigram Mandir 		None 	Hakimpur 	DofA???
-41 	Gopalganj Temple 		Dinajpur 	Sadar 	DofA
-42 	Mosque at Mahisantosh 		Dinajpur 	Patnitala 	DofA
-43 	Panur Dhibi 	Yes 	None 	Ghoraghat 	Sazz
-44 	Ancient Mosque near Begum Rokya's House 		Rangpur 	Mithapukur 	DofA
-45 	Longrampart Kell or Fort 		Rangpur 	Mithapukur 	DofA
-46 	Laldighi Temple 		Rangpur 	Badarganj 	DofA
-47 	Mosque of Kadirbox Mandal 		Gaibandha 	Palashbari 	DofA
-48 	Agradigun Mound 		Dinajpur 	Ghoraghat 	DofA
-49 	Shiv Mandap 		Dinajpur 	Nababganj 	DofA
-50 	Dhibar Pillar 		Dinajpur 	Patnitala 	DofA
-51 	Badal Pillar with Pala inscription 		Dinajpur 	Mongalbari 	DofA
-52 	Khalpara Ancient mound 		Panchagar 	Sadar 	DofA
-53 	Morkdum Garh 		Panchagar 	Sadar 	DofA
-54 	Enclosing Wall 		Panchagar 	Sadar 	DofA
-55 	Model Bajar Garh 		Panchagar 	Sadar 	DofA
-56 	Mehena Bhita Garh 		Panchagar 	Sadar 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-53 	Dubalhati Rajbari 	Yes 	None 		Sazz
-54 	Dibor Dighi Stomvo 	Yes 	None 	Patnitola??? 	Sazz
-56 	Gahon pirbabar Mazar 		None 	Patnitola??? 	Sazz
-57 	Alta Dighi Dhamoirhat 		None 		Sazz
-58 	Katabari Mazar Patnitola 		None 		Sazz
-60 	Chistia Babar Mazar-Patnitola 		None 		Sazz
-61 	Ragunath Geu Mondir 		None 	Mohadevpur,Paharpur 	Sazz
-62 	Mohadevpur Razbari 		None 		Sazz
-71 	Dhibar Pillar 		None 		???DofA
-79 	3-dome mosque Tahakhana 	Yes 	None 	Shibganj 	Sazz
-90 	Chamchika Mosque 	Yes 	None 		Sazz
-91 	Kotowali Dorwaja 	Yes 	None 		Sazz
-149 	Bagha Mosque 		Rajshahi 	Bagha 	DofA
-150 	Kismat Maria Mosque and Bibir Ghar 		Rajshahi 	Durgapur 	DofA
-151 	Kumarpur Mound of Ali Kuli Beg 		Rajshahi 	Godagari 	DofA
-152 	Bara Anhik Temple 		Rajshahi 	Puthia 	DofA
-153 	Hawa Khana 		Rajshahi 	Puthia 	DofA
-154 	Putia Rajbari and adjacent Ahnik temple 		Rajshahi 	Puthia 	DofA
-155 	Baro Gopal Temple 		Rajshahi 	Puthia 	DofA
-156 	Choto Anhik Temple 		Rajshahi 	Puthia 	DofA
-157 	Boro Siva Temple 		Rajshahi 	Puthia 	DofA
-158 	Choto Gopal Temple 		Rajshahi 	Puthia 	DofA
-159 	Jagadhatri Temple 		Rajshahi 	Puthia 	DofA
-160 	Gopal Temple 		Rajshahi 	Puthia 	DofA
-161 	Choto Siva Temple (Krishnapur) 		Rajshahi 	Puthia 	DofA
-162 	Keshtha Khepar Math 		Rajshahi 	Puthia 	DofA
-163 	Rath Temple 		Rajshahi 	Puthia 	DofA
-164 	Dol Temple 		Rajshahi 	Puthia 	DofA
-165 	Govinda Temple 		Rajshahi 	Puthia 	DofA
-166 	Siva Temple 		Rajshahi 	Puthia 	DofA
-167 	Biharail Mound 		Rajshahi 	Tanore 	DofA
-168 	Dhanora Mound 		Rajshahi 	Tanore 	DofA
-169 	Mounds at Uparbari & Mokarama 		Rajshahi 	Godagari 	DofA
-170 	Dewpara tank & Embankment 		Rajshahi 	Godagari 	DofA
-171 	Ancient Tank 		Rajshahi 	Deoapara 	DofA
-172 	Ancient Shahi Mosque 		Pabna 	Chatmohar 	DofA
-173 	Jagannath Temple 		Pabna 	Chatmohar 	DofA
-174 	Jor Bangla Temple 	Yes 	Pabna 	Raghabpur 	DofA
-175 	Tarash Bhavan 		Pabna 	Pabna 	DofA
-176 	Rabindra Kachari Bari 		Sirajganj 	Shahzadpur 	DofA
-177 	Birat Rajar's Mound and Adjacent sites 		Sirajganj 	Raygonj 	DofA
-178 	Bangla Ghar (Temple) 		Sirajganj 	Ullahpara 	DofA
-179 	Siva Temple-1 		Sirajganj 	Shahzadpur 	DofA
-180 	Nabaratna Temple 		Sirajganj 	Shahzadpur 	DofA
-181 	Tomb of Hajrat Makhdum Shah Doula 		Sirajganj 	Shahzadpur 	DofA
-182 	Shahjadpur Dargah Mosque 		Sirajganj 	Shahzadpur 	DofA
-183 	Tomb of Shamsuddin Tabriji 		Sirajganj 	Shahzadpur 	DofA
-184 	Potajia Temple 		Sirajganj 	Shahzadpur 	DofA
-185 	Jor Bangla Majar 		Pabna 	Bhangura 	DofA
-186 	Dodevi tola Radha Ballav Bigroho 		Pabna 	Chatmohar 	DofA
-187 	Madan Gopal Bigroho 		Pabna 	Chatmohar 	DofA
-188 	Radhakanta Bigroho 		Pabna 	Chatmohar 	DofA
-189 	Tomb of Shambhuchad Thakur 		Pabna 	Faridpur 	DofA
-190 	Siva Temple-2 		Sirajganj 	Shahzadpur 	DofA
-191 	Small mound (on eastern bank of Tulshiganga) 		Joypurhat 	Panchbibi 	DofA
-192 	Archaeological remains of Naopukuria 		Joypurhat 	Panchbibi 	DofA
-193 	Uchai village archaeological remains 		Joypurhat 	Panchbibi 	DofA
-194 	Kadia Bari Mound 		Joypurhat 	Panchbibi 	DofA
-195 	Dighapatia Rajbari (Uttara Ganobhaban) 		Natore 	Natore 	DofA
-196 	Palace of Queen Bhabani of others Mamori 		Natore 	Natore 	DofA
-197 	Chalan Bil Museum 		Natore 	Gurudaspur 	NBR
-198 	Gosai Akra 		Natore 	Lalpur 	DofA
-199 	Masjid and Majar 		Natore 	Lalpur 	DofA
-200 	Somapur Bihar, Paharpur 	Yes 	Naogaon 	Badalgachi 	DofA
-201 	Kusumba Masjid 		Naogaon 	Manda 	DofA
-202 	Mahisantos Mosque 		Naogaon 	Dhamurhat 	DofA
-203 	Balihar Royal Palace 	Yes 	Naogaon 	Naogaon 	DofA
-204 	Sattaya Pirer Bhita 		Naogaon 	Badalgachi 	DofA
-205 	Halud Vihara 	Yes 	Naogaon 	Badalgachi 	DofA
-206 	Badal Pillar (Bhimer Panti) 		Naogaon 	Dhamurhat 	DofA
-207 	Jagadal Vihara 	Yes 	Naogaon 	Dhamurhat 	DofA
-208 	Agradigun Mound 		Naogaon 	Patnitala 	DofA
-209 	Dhubal Hati Palace 		Naogaon 	Naogaon 	DofA
-210 	Rabindra Kacharibari (or Khuthi?) at Patishar 		Naogaon 	Atrai 	DofA
-211 	Chowja Mosque 		Naogaon 	Manda 	DofA
-212 	Choto Sona Mosque 	Yes 	Chapai Nawabganj 	Shibganj 	DofA
-213 	Darashbari Mosque and Madrasa mound 		Chapai Nawabganj 	Shibganj 	DofA
-214 	Darashbari Madrasha (duplicate???) 	Yes 	Duplicate?? 	Shibganj 	???DofA
-215 	Shah Niamatullah Wali Mosque 		Chapai Nawabganj 	Shibganj 	DofA
-216 	Tomb of Shah Niamatullah Wali 	Yes 	Chapai Nawabganj 	Shibganj 	DofA
-217 	Taha-Khana of Shah Shuja 	Yes 	Chapai Nawabganj 	Shibganj 	DofA
-218 	Khania Dighi Mosque 	Yes 	Chapai Nawabganj 	Shibganj 	DofA
-219 	Dhani Chalk Mosque 		Chapai Nawabganj 	Shibganj 	DofA
-220 	Tomb near Chota Sona Mosque 		Chapai Nawabganj 	Shibganj 	DofA
-221 	Dudh Pukur Mound 		Chapai Nawabganj 	Shibganj 	DofA
-222 	Tiakathi Calvert-1 		Chapai Nawabganj 	Shibganj 	DofA
-223 	Tiakathi Calvert-2 		Chapai Nawabganj 	Shibganj 	DofA
-224 	Fortification wall at Gour 		Chapai Nawabganj 	Shibganj 	DofA
-225 	Khojar Mound 		Chapai Nawabganj 	Shibganj 	DofA
-226 	Kamura Dighi Mound 		Chapai Nawabganj 	Shibganj 	DofA
-227 	Rohanpur ancient monuments 		Chapai Nawabganj 	Gomastapur 	DofA
-228 	Nawda Buruj mound and adjacent mounds 		Chapai Nawabganj 	Gomastapur 	DofA
-229 	Kansat Palace 		Chapai Nawabganj 	Shibganj 	DofA
-230 	Gaur group of monuments 		Chapai Nawabganj 	Shibganj 	DofA
-231 	Kherua Mosque 		Bogra 	Shibganj 	DofA
-232 	Mahasthangarh 		Bogra 	Shibganj 	DofA
-233 	Mahasthan Mosque (Farukh Shiar) 		Bogra 	Shibganj 	???DofA
-234 	Chagalnayya Mound 		Bogra 	Shibganj 	DofA
-235 	Govinda Dhap 	Yes 	Bogra 	Shibganj 	DofA
-236 	Laksmindarer Math (Gokul Medh) Dup?? 		Bogra 	Shibganj 	???DofA
-237 	Khodaipathar Mound 		Bogra 	Shibganj 	DofA
-238 	Mankalir Mound 		Bogra 	Shibganj 	DofA
-239 	Palace of Parshuram 		Bogra 	Shibganj 	DofA
-240 	Bairagir Bhita 		Bogra 	Shibganj 	DofA
-241 	Nitai Dhopanir Ghat 		Bogra 	Shibganj 	DofA
-242 	Raja Gapinath Dhap 		Bogra 	Shibganj 	DofA
-243 	Skandher Dhap 		Bogra 	Shibganj 	DofA
-244 	Kamar Palace 		Bogra 	Shibganj 	DofA
-245 	Sawdagarer Bhita 		Bogra 	Shibganj 	DofA
-246 	Kancher Angina 		Bogra 	Shibganj 	DofA
-247 	Sashti Tala Temple 		Bogra 	Shibganj 	DofA
-248 	Rash Mancha Temple 		Bogra 	Shibganj 	DofA
-249 	Dulo Majhir Bhita 		Bogra 	Shibganj 	DofA
-250 	Ojha Dhannantarir Bhita 		Bogra 	Shibganj 	DofA
-251 	Choto Sannasir Dhap (No-1 Tengrar Dhap) 		Bogra 	Shibganj 	DofA
-252 	Boro Sannasir Dhap (No-2 Tengrar Dhap) 		Bogra 	Shibganj 	DofA
-253 	Narapatir Dhap 		Bogra 	Shibganj 	DofA
-254 	Dakinir Dhap 		Bogra 	Shibganj 	DofA
-255 	Shur Dighir Dhap 		Bogra 	Shibganj 	DofA
-256 	Kanjir Hari Dhap 		Bogra 	Shibganj 	DofA
-257 	Dhaniker Dhap 		Bogra 	Shibganj 	DofA
-258 	Kanai Dhap 		Bogra 	Sadar 	DofA
-259 	Godaibarir Dhap 		Bogra 	Shibganj 	DofA
-260 	Malinir Dhap 		Bogra 	Sadar 	DofA
-261 	Khullanar Dhap 		Bogra 	Shibganj 	DofA
-262 	Lahanar Dhap 		Bogra 	Shibganj 	DofA
-263 	Madar Dargah (or Madarir) 		Bogra 	Shibganj 	DofA
-264 	Padmar Bari 		Bogra 	Shibganj 	DofA
-265 	Bish Mardan 		Bogra 	Shibganj 	DofA
-266 	Sannasir Dhap 		Bogra 	Shibganj 	DofA
-267 	Totaram Panditer Dhap 		Bogra 	Shibganj 	DofA
-268 	Mongal Kot 		Bogra 	Shibganj 	DofA
-269 	Shalibahan Rajar Bari 		Bogra 	Kahalu 	DofA
-270 	Madar Tala Nishan Ghati 		Bogra 	Shibganj 	DofA
-271 	Dol Mancha 		Bogra 	Shibganj 	DofA
-272 	Jugir Bhaban 		Bogra 	Kahalu 	DofA
-273 	Gokul Medh 		Bogra 	Shibganj 	DofA
-274 	Dhana Bhandar Mound 		Bogra 	Shibganj 	DofA
-275 	Dol Mancha Mound 		Bogra 	Shibganj 	DofA
-276 	Jamur Mound 		Bogra 	Sherpur 	DofA
-277 	Shajapur Mound 		Bogra 	Shahjahanpur 	DofA
-278 	Jiuet Limda 		Bogra 	Kahalu 	DofA
-279 	Siva Temple 		Bogra 	Kahalu 	DofA
-280 	Sarba Mangala Temple 		Bogra 	Kahalu 	DofA
-281 	Kali Temple 		Bogra 	Kahalu 	DofA
-282 	Agnikunda 		Bogra 	Kahalu 	DofA
-283 	Durga (fort) 		Bogra 	Kahalu 	DofA
-284 	Sannasir Dhap (Bhasu Bihar) 		Bogra 	None 	DofA
-285 	Narapatir Dhap (Bhasu Bihar) 		Bogra 	None 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Abdullah Khan Mosque 		Faridpur 	Bhanga 	Mhbb
-2 	Majlish Awlia Mosque 		Faridpur 	Bhanga 	DofA
-3 	Kobi Jasimuddin House 	Yes 	Faridpur 		Sazz
-4 	Mathurapur Deul 	Yes 	Faridpur 	Modhukhali 	DofA
-5 	Mazar of Dewan Saker Shah 		Faridpur 		Sazz
-6 	Moyez Manzil 	Yes 	Faridpur 		Sazz
-7 	Kamlapur Zamindar mansions 	Yes 	Faridpur 		Sazz
-8 	Basudeva Mandir 		Faridpur 		Sazz
-9 	Faridpur Zila School 	Yes 	Faridpur 		Sazz
-10 	Gerda Shaheb Para 		Faridpur 		Sazz
-11 	Gerda Masjid 	Yes 	Faridpur 		Sazz
-12 	Angan Mahanam Sampraday of Hindus 	Yes 	Faridpur 		Sazz
-13 	Mansion of Kabir Family 	Yes 	Faridpur 		Sazz
-14 	Mathurapur Deul Modhukhali 	Yes 	Faridpur 		Sazz
-15 	Shikder Bari 	Yes 	Faridpur 	Kanaipur 	Sazz
-16 	Satoir Masjid Boyalmari 	Yes 	Faridpur 		Sazz
-17 	Patharail Masjid Bhanga 	Yes 	Faridpur 		Sazz
-18 	Rajendro Babu Zominder Bari 	Yes 	Faridpur 		Sazz
-19 	Faridpur District Court 	Yes 	Faridpur 		Sazz
-20 	Raja Ram Temple 		Madaripur 	Rajoir 	DofA
-21 	Char Ani Mosque 		Shariatpur 	Naria 	DofA
-22 	Single domed Tomb near Char Ani Mosque & Madrasha 		Shariatpur 	Naria 	DofA
-23 	Manasha Temple 		Shariatpur 	Shariatpur 	DofA
-24 	Durga Temple 		Shariatpur 	Shariatpur 	DofA
-25 	Bahaltali Ancient Mosque 		Gopalganj 	Kotalipara 	DofA
-26 	Residence of Sheikh Mujib and his forefathers 		Gopalganj 	Tungipara 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Buruj Mound 		Netrokona 	Kendua 	DofA
-2 	Tomb of Dangu Mia 		Netrokona 	Kendua 	DofA
-3 	Roofless old Building (Roayl Bari) 		Netrokona 	Kendua 	DofA
-4 	Bara Deuri Mound 		Netrokona 	Kendua 	DofA
-5 	Kotbari Fort 		Netrokona 	Kendua 	DofA
-6 	Niamati Bibi Dargah 		Netrokona 	Kendua 	DofA
-7 	Ghagra Khan Bari Jami Mosque 		Sherpur 	Jhinaigati 	DofA
-8 	Nayani Jamidar Bari 		Sherpur 	Sherpur 	DofA
-9 	Rang Mahal of Nayani Jamindar 		Sherpur 	Sherpur 	DofA
-10 	Aat Ani Zamindar Bari (Surya Kanta Palace) 	Yes 	Mymenshing 	Muktagacha 	DofA
-11 	Jora Mandir 		Mymenshing 	Muktagacha 	DofA
-12 	Three siva Temples 		Mymenshing 	Muktagacha 	DofA
-13 	Har Rameshwar Temple 		Mymenshing 	Muktagacha 	DofA
-14 	Stone Siva Temple 		Mymenshing 	Muktagacha 	DofA
-15 	Dimra Siva Temple 		Mymenshing 	Muktagacha 	???DofA
-16 	Mymenshing Museum Building 		Mymenshing 	Mymenshing 	DofA
-17 	Shashi Lodge 	Yes 	Mymenshing 	Mymenshing 	DofA
-18 	Alexander Castle 	Yes 	Mymenshing 		Sazz
-19 	Circuit House 	Yes 	Mymenshing 		Sazz
-20 	Ananda Mohan College 	Yes 	Mymenshing 		Sazz
-21 	Vidyamoyee School 	Yes 	Mymenshing 		Sazz
-22 	Gouripur Lodge 	Yes 	Mymenshing 		Sazz
-23 	Town Hall ???? (demolished) 		Mymenshing 		Sazz
-24 	Muktagacha Zamindar Bari 	Yes 	Mymenshing 	Muktagacha 	Sazz
-25 	Palace of Shashikanta 		Mymenshing 	Muktagacha 	DofA
-26 	Qutub Mosque 		Kishoreganj 	Astogram 	DofA
-27 	Shah Mohammad Mosque 	Yes 	Kishoreganj 	Pakundia 	DofA
-28 	Sadi Mosque 	Yes 	Kishoreganj 	Pakundia 	DofA
-29 	Mosque of Aurangazeb 		Kishoreganj 	Pakundia 	DofA
-30 	Ghoradighi Mosque 		Kishoreganj 		Mhbb
-31 	Temple of Poet Dij Bangshi Das 		Kishoreganj 	Kishoreganj 	DofA
-32 	Temple of Chandrabati 	Yes 	Kishoreganj 	Kishoreganj 	DofA
-33 	Isha Kha Jangal Bari 	Yes 	Kishoreganj 	Karimganj 	DofA
-34 	Shaheb Bari Jami Mosque 		Kishoreganj 	Tarail 	DofA
-35 	Gayebana Masjid 	Yes 	Kishoreganj 	Sadar 	Sazz
-36 	Horsi Masjid 	Yes 	Kishoreganj 	Pakundia 	Sazz
-37 	Gangutiya Jomider Bari 	Yes 	Kishoreganj 		Sazz
-38 	Atharobari Jomider Bari 	Yes 	Kishoreganj 		Sazz
-39 	Dewan Bari Masjid 	Yes 	Kishoreganj 		Sazz
-40 	Golok Chondro Jomider Bari 	Yes 	Kishoreganj 		Sazz
-41 	Garai Mosque 		Kishoreganj 	Bazitput 	DofA
-42 	Atia Mosque 	Yes 	Tangail 	Delduar 	DofA
-43 	Mohera Zamindar Bari 	Yes 	Tangail 		Sazz
-44 	Delduar Zamindar Bari 	Yes 	Tangail 		Sazz
-45 	Nagorpur Zamindar Bari 	Yes 	Tangail 		Sazz
-46 	Pakutiya Zamindar Bari 	Yes 	Tangail 		Sazz
-47 	Sontosh Zamindar Bari 	Yes 	Tangail 		Sazz
-48 	P C Sorker Bari 	Yes 	Tangail 		Sazz
-49 	Korotiya Zamindar Bari 	Yes 	Tangail 		Sazz
-50 	Dhanbari Zamindar Bari 	Yes 	Tangail 		Sazz
-51 	Hemnagar Zamindar Bari 	Yes 	Tangail 		Sazz
-52 	Kumudini Trust 	Yes 	Tangail 		Sazz
-53 	Balia Zamindar Bari 	Yes 	Tangail 		Sazz
-54 	Kadim Hamdani Mosque 		Tangail 	Kalihati 	DofA
-55 	Molla Bari mosjid 	Yes 	Tangail 	Shokhipur 	Sazz
-56 	Dholapara mosjid 	Yes 	Tangail 	Shokhipur 	Sazz
-57 	Barachowna Old Mosque 	Yes 	Tangail 	Shokhipur 	Sazz
-58 	Sripholtoli Jaminder Bari 	Yes 	Tangail 	Kaliakoir 	FB
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Bhawyal Rajbari 	Yes 	Gazipur 	Shibbari 	Sazz
-2 	Shoshman Ghat Mondir 	Yes 	Gazipur 		Sazz
-3 	Borai Bari Archaeological Site 		Gazipur 	Kaliakoir 	DofA
-4 	church 		Gazipur 		Chetona
-5 	church 		Gazipur 		Chetona
-6 	??? 		Gazipur 		Chetona
-7 	Parulia Shahi Mosque 		Narshingdi 	Palash 	DofA
-8 	Asam Rajar Gar (Botashwar) 		Narshingdi 	Belabo 	DofA
-9 	Paritakto Vita (Wari) 		Narshingdi 	Belabo 	DofA
-10 	Matta Math 		Manikganj 	Sadar 	Sazz
-11 	Sree Sree Anandamayee Kalibari 		Manikganj 		Sazz
-12 	Rajani Bhaban and Jhobhat Bhaban 		Manikganj 		Sazz
-13 	Narayan Sadhu Asram 		Manikganj 		Sazz
-14 	Shivbari Mandir 		Manikganj 		Sazz
-15 	Neel-kuthi at Bimile 		Manikganj 	Sadar 	Sazz
-16 	Fort at Fordnagar 		Manikganj 	Singair 	Sazz
-17 	Baira Neel-kuthi 		Manikganj 	Singair 	Sazz
-18 	Residence of Datta-Guptas 		Manikganj 	Singair 	Sazz
-19 	Ananda Kuthi and Mandir 		Manikganj 	Singair 	Sazz
-20 	Sen bari and Durga-mandap 		Manikganj 	Singair 	Sazz
-21 	Imampara Jami Masjid 		Manikganj 	Singair 	Sazz
-22 	Tomb of Hazrat Ibrahim Bogdadi 		Manikganj 	Singair 	Sazz
-23 	Kali-sundari Charitable Dispensary 		Manikganj 	Singair 	Sazz
-24 	Ekdala Fort 		Manikganj 	Shivalaya 	Sazz
-25 	Katasgarh Fort 		Manikganj 	Shivalaya 	Sazz
-26 	Fort at Dhaki-jora 		Manikganj 	Shivalaya 	Sazz
-27 	Baher Paglar Astana 		Manikganj 	Shivalaya 	Sazz
-28 	Daschira Buddha-vihara and stupa 		Manikganj 	Shivalaya 	Sazz
-29 	Nabo Rotno Mandir (same as below?) 	Yes 	Manikganj 	Teota 	FB
-30 	Navaratna Math Teota 	Yes 	Manikganj 	Shivalay 	Sazz
-31 	Teota Zamindar Bari 	Yes 	Manikganj 	Shivalaya 	Sazz
-32 	Machain Shahi Jame Masjid 		Manikganj 	Shivalaya 	DofA
-33 	Tomb of Shah Rustam 		Manikganj 	Shivalaya 	Sazz
-34 	Tepra Kali Mandir Sree-bari 		Manikganj 	Shivalaya 	Sazz
-35 	Neel-kuthi at Teota 		Manikganj 	Shivalaya 	Sazz
-36 	Baliati Zamindar Palace 	Yes 	Manikganj 	Saturiya 	DofA
-37 	Dhankora Zamindar bari 	Yes 	Manikganj 	Saturiya 	Sazz
-38 	Tomb of Kalu Shah 		Manikganj 	Saturiya 	Sazz
-39 	Gauranga Math 		Manikganj 	Saturiya 	Sazz
-40 	Neel-kuthi Sreebari 		Manikganj 		Sazz
-41 	Panch-thubi Bauddha-vihara 		Manikganj 	Ghior 	Sazz
-42 	Jhitka Lokmania Dargah 		Manikganj 	Harirampur 	Sazz
-43 	Kotkandi Jame mosque 		Manikganj 		Sazz
-44 	Betila Zominder Bari 	Yes 	Manikganj 	Mitura 	Sazz
-45 	Tomb of Joseph Paget 		Manikganj 	Shivalay 	DofA
-46 	Sonarong Jora Temple 	Yes 	Munshiganj 	Tongibari 	DofA
-47 	Idrakpur Fort 	Yes 	Munshiganj 	Sadar 	DofA
-48 	Tank of Harish Chandra 		Munshiganj 	Rampal 	DofA
-49 	Kali Mandir 		Munshiganj 	Rampal 	Mhbb
-50 	Baba Adam Mosque 	Yes 	Munshiganj 	Tongibari 	DofA
-51 	Mirkadim Bridge 		Munshiganj 	Tongibari 	DofA
-52 	Rai Shaheb Bhabon 	Yes 	Munshiganj 	Serajdikhan 	Sazz
-53 	Unknown (ask) 	Yes 	Munshiganj 	Tongibari 	
-54 	Mughal bridge 	Yes 	Munshiganj 		Sazz
-55 	Deo Bari 	Yes 	Munshiganj 		Sazz
-56 	Mondol Bari 	Yes 	Munshiganj 		Sazz
-57 	Unknown Moth 	Yes 	Munshiganj 		Sazz
-58 	Shyamsiddhir Moth 	Yes 	Munshiganj 		Sazz
-59 	Harikhali Jomider Bari 	Yes 	Munshiganj 		Sazz
-60 	Bikrampur Vihara 		Munshiganj 		FB
-61 	Goaldi Mosque 	Yes 	Narayanganj 	Sonargaon 	DofA
-62 	Panam City 	Yes 	Narayanganj 	Sonargaon 	DofA
-63 	Poddar Bari, Panamnogor 	Yes 	Narayanganj 		Sazz
-64 	Choto Sardar Bari 		Narayanganj 	Sonargaon 	DofA
-65 	Tomb of Gaish Uddin Azam Shah 	Yes 	Narayanganj 	Sonargaon 	DofA
-66 	Taksal Poddar Bari 		Narayanganj 	Sonargaon 	DofA
-67 	Tomb of Haji Baba Saleh 		Narayanganj 	Bandar 	DofA
-68 	Mozumpur Mosque 		Narayanganj 	Sonargaon 	DofA
-69 	Sonakanda Fort 	Yes 	Narayanganj 	Bandar 	DofA
-70 	Hajiganj Fort 	Yes 	Narayanganj 	Sadar 	DofA
-71 	Dewan Bazar College Mosque 		Narayanganj 	Newmarket 	DofA
-72 	Gazir Mound 		Narayanganj 	Bandar 	DofA
-73 	Pagla Bridge 		Narayanganj 	Fatullah 	DofA
-74 	Tomb of Bibi Maryam 	Yes 	Narayanganj 	Sadar Upazila 	DofA
-75 	Palace of Murapara 	Yes 	Narayanganj 	Rupganj 	DofA
-76 	Sabdi Kali Mandir 	Yes 	Narayanganj 		Sazz
-77 	Tomb of Ibrahim Danishmand 	Yes 	Narayanganj 		Sazz
-78 	Shonargaon Rajbari 	Yes 	Narayanganj 		Sazz
-79 	Kodom Rosul 	Yes 	Narayanganj 		Sazz
-80 	Eptaph, Dorgabari Complex 	Yes 	Narayanganj 		Sazz
-81 	Shahi Masjid 	Yes 	Narayanganj 	Bondor 	Sazz
-82 	Ponkhiraj Bridge 		Narayanganj 	Sonargaon 	Sazz
-83 	Panam Bridge 		Narayanganj 	Sonargaon 	DofA
-84 	Khandakar Mosque 		Narayanganj 	Bandar 	DofA
-85 	Math, Chandi Mandup, Pati Mondir 		Narayanganj 	Rupganj 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Audience & Hammam of Lalbagh Fort 	Yes 	Dhaka 	Lalbagh 	DofA
-2 	Bara Katra three storiead Gate of Bara katra 	Yes 	Dhaka 	Kotowali 	DofA
-3 	Beraid Bhuyanpara Jame Mosque (Ancient Portion) 		Dhaka 	Badda 	DofA
-4 	Bhajahari Lodge 		Dhaka 	Sutrapur 	DofA
-5 	Building of Raja Harish Chandra 		Dhaka 	Savar 	DofA
-6 	Buruj of Raja Harish Chandra 	Yes 	Dhaka 	Savar 	DofA
-7 	Choto Katra three stored Gate of choto katra 	Yes 	Dhaka 	Kotowali 	DofA
-8 	Gateway of the South East corner of Lalbagh Fort 	Yes 	Dhaka 	Lalbagh 	DofA
-9 	Haji Khawja Shahbaj Mosque 		Dhaka 	Ramna 	DofA
-10 	Jamindar Bari at Sutrapur 	Yes 	Dhaka 	Sutrapur 	DofA
-11 	Khan Mohammad Mridha Mosque 		Dhaka 	Lalbagh 	DofA
-12 	Lalbagh Fort 	Yes 	Dhaka 	Lalbagh 	DofA
-13 	Lalbagh Fort Mosque 		Dhaka 	Lalbagh 	DofA
-14 	Musa Khan Mosque 		Dhaka 	Ramna 	DofA
-15 	Nawab Bari Main Gate 		Dhaka 	Kotowali 	DofA
-16 	Nimtali Deury 	Yes 	Dhaka 	Ramna 	DofA
-17 	North Brook Hall (Lal Kuthi) 	Yes 	Dhaka 	Kotowali 	DofA
-18 	Old Eidgah at Dhanmandi 	Yes 	Dhaka 	Dhanmondi 	DofA
-19 	Radha Krishna Temple 	Yes 	Dhaka 	Sutrapur 	DofA
-20 	Rajashan Mound 	Yes 	Dhaka 	Savar 	DofA
-21 	Rose Garden 	Yes 	Dhaka 	Sutrapur 	DofA
-22 	Ruplal House 	Yes 	Dhaka 	Kotowali 	DofA
-23 	Sat Gumbuz Mosque 	Yes 	Dhaka 	Mohammadpur 	DofA
-24 	Shankhanidhi Dance House 	Yes 	Dhaka 	Sutrapur 	DofA
-25 	Shankhanidhi House 	Yes 	Dhaka 	Sutrapur 	DofA
-26 	Temple of Khelaram Data 	Yes 	Dhaka 	Nawabganj 	DofA
-27 	Tomb near Sat Gumbad Mosque 	Yes 	Dhaka 	Mohammadpur 	DofA
-28 	Tomb of Bibi Champa 	Yes 	Dhaka 	Kotowali 	DofA
-29 	Tomb of Colombo Sahib 	Yes 	Dhaka 	Narinda 	DofA
-30 	Tomb of Haji Khawja Shahbaj 	Yes 	Dhaka 	Ramna 	DofA
-31 	Tomb of Josaph Paget 	Yes 	Dhaka 	Narinda 	DofA
-32 	Tomb of Nawab Giasuddin Haider 	Yes 	Dhaka 	Kotowali 	DofA
-33 	Tomb of Nawab Nasarat Jang 	Yes 	Dhaka 	Kotowali 	DofA
-34 	Tomb of Nawab Quamarul Daulah 	Yes 	Dhaka 	Kotowali 	DofA
-35 	Tomb of Pari Bibi 	Yes 	Dhaka 	Lalbagh 	DofA
-36 	Jinjira Palace and gate (Qasr-i-Jazirah)*** 	Yes 	Dhaka 	Keraniganj 	DofA
-37 	Tomb of Nawab Shamsud Daulah 		None 	Kotowali 	DofA
-ID 	Name of Site 	Coord 	Zilla 	Upazilla 	Source
-1 	Puspa Saha House 	Yes 	Dhaka 		FB
-24 	Chowdhury Bari Moth 	Yes 	Munshiganj 	None 	FB
-25 	Unknown Moth 1 	Yes 	Munshiganj 	None 	FB
-26 	Unknown Moth 2 	Yes 	Munshiganj 	None 	None
-27 	Puspa Saha Pond 	Yes 	Dhaka 	None 	None
+1	Nasrat Gazi Mosque 	None	None	Barisal	Bakerganj	BABS0010	DofA
+2	Joint Mosque at Bhatikhana	None	None	Barisal			Sazz
+3	Sujabad Kella	None	None	Barisal			Sazz
+4	Sangram Kella	None	None	Barisal			Sazz
+5	Girja Mahalla	None	None	Barisal			Sazz
+6	Ebadullah Mosque	None	None	Barisal			Sazz
+7	Kali Bari of Mukunda Das	22.71576N	090.34787E	Barisal			Sazz
+8	Kasai Mosque	22.70324N	090.37290E	Barisal			Sazz
+9	Kashba Mosque (One domed?)	None	None	Barisal	Gaurnadi	BABS0020	DofA
+10	Sarkar's Math (or Shankar's?)	22.71276N	090.35873E	Barisal	Gaurnadi	BABS0030	DofA
+11	Kamalapur Mosque 	None	None	Barisal	Gaurnadi	BABS0040	DofA
+12	Karapur Mia Bari Mosque 	None	None	Barisal	Barisal	BABS0050	DofA
+13	Bibir Pukur	22.70318N	090.37067E	Barisal	Barisal		Sazz
+14	Bibi Chini Mosque 	None	None	Barguna	Betagi	BABG0510	DofA
+15	Shrirampur Mosque 	None	None	Patuakhali	Sadar	BAPT0110	DofA
+16	Late Amirullah Munshibari Jami Mosque 	None	None	Patuakhali	Dosmina	BAPT0120	DofA
+17	Kachichira Jami Mosque 	None	None	Patuakhali	Patuakhali	BAPT0130	DofA
+18	Double Roofed Grave	None	None	Patuakhali	Patuakhali	BAPT0140	DofA
+19	Ancient Bridge	None	None	Patuakhali	Patuakhali	BAPT0150	DofA
+20	Galua Pucca Mosque 	None	None	Jhalakathi	Rajapur	BAPR0210	DofA
+21	Mothbaria Momin Mosque 	None	None	Pirojpur	Mothbaria	BAJK0310	DofA
+22	Amirabad Moghali Masjid	22.67926N	090.28550E	Barisal			Sazz
+23	Madhobpasha Zominder Bari	22.76635N	090.28286E	Barisal			Sazz
+24	Mia Bari Masjid	22.72425N	090.28885E	Barisal			Sazz
+25	Kasba Allah'r Masjid	22.98914N	090.22065E	Barisal	Gauranadi		Sazz
+26	Mansa Temple at Goila	None	None	Barisal			Sazz
+27	Durgasagar Dighi	22.76097N	090.28948E	Barisal			Sazz
+28	Charkella	None	None	Barisal			Sazz
+29	Oxford Church	22.70431N	090.36297E	Barisal			Sazz
+30	Bell's Park	22.69298N	090.36850E	Barisal			Sazz
+31	Ashwini kumar town hall	22.70471N	090.37075E	Barisal			Sazz
+32	Khanbari Old Jame Mosque Complex 	None	None	Jhalakathi	Rajapur	BAJK0320	DofA
+33	Rammohan Samadhi Mandir	22.71172N	090.35940E	Barisal			Sazz
+34	Birth Place of Poet Bijoy Gupta	22.97047N	090.17802E	Barisal			Sazz
+35	Birth-place of A.K.M. Fazlul Hoque	22.80684N	090.19386E	Jhalakathi	Rajapur	BAJK0130	DofA
+36	Ancient Jami Mosque	None	None	Jhalakathi	Rajapur	None	DofA
+37	Collectorate Bhaban	None	None	Barisal	None	None	DofA
+38	Dahar Shankar Howladerbari Jami Mosque Complex	None	None	Jhalakathi	Rajapur	None	DofA
+39	Sikder Bari Jami Mosque	None	None	Patuakhali	None	None	DofA
+40	Mosjid Baria Mosque	None	None	Patuakhali	Mirajganj	None	DofA
+41	Shalban Vihara	None	None	Comilla	Sadar	None	DofA
+42	Laticot Mura	None	None	Comilla	Sadar	None	DofA
+43	Corneller Mura	None	None	Comilla	Sadar	None	DofA
+44	Ananda Vihara	None	None	Comilla	Sadar	None	DofA
+45	Kotila Mura	None	None	Comilla	Sadar	None	DofA
+46	Charpatra Mura	None	None	Comilla	Sadar	None	DofA
+47	Rupban Mura	None	None	Comilla	Sadar	None	DofA
+48	Itakhola Mura	None	None	Comilla	Sadar	None	DofA
+49	Bairagir Mura	None	None	Comilla	Sadar	None	DofA
+50	Balagajir Mura	None	None	Comilla	Sadar	None	DofA
+51	Chandi Mura	None	None	Comilla	Sadar	None	DofA
+52	Chila Mura	None	None	Comilla	Sadar	None	DofA
+53	Hatigara Mura	None	None	Comilla	Sadar	None	DofA
+54	Pacca Mura	None	None	Comilla	Sadar	None	DofA
+55	Ujirpur Mound	None	None	Comilla	Sadar	None	DofA
+56	Rupban Kannyar (Rupbani) Mura	None	None	Comilla	Sadar	None	DofA
+57	Kotbari Mura	None	None	Comilla	Sadar	None	DofA
+58	Bhoj Rajar palace	None	None	Comilla	Sadar	None	DofA
+59	Palace & Temple of Queen Mainamati	None	None	Comilla	Sadar	None	DofA
+60	Mainamati Mound-1	None	None	Comilla	Sadar	None	DofA
+61	Mainamati Mound-1A	None	None	Comilla	Sadar	None	DofA
+62	Mainamati Mound-1B	None	None	Comilla	Kotowali	None	DofA
+63	Mainamati Mound-2A	None	None	Comilla	Kotowali	None	DofA
+64	Mainamati Mound-2B	None	None	Comilla	Kotowali	None	DofA
+65	Satara Ratna Temple	None	None	Comilla	Kotowali	None	DofA
+66	Chitodda Mosque	None	None	Comilla	Barura	None	DofA
+67	Arjuntala Mosque	None	None	Comilla	Barura	None	DofA
+68	Math of Sattaya Ram Majumdar	None	None	Chandpur	Haziganj	CGCM1290	DofA
+69	Bakhtiar Khar Mosque	None	None	Chandpur	Kochua	CGCM1310	DofA
+70	Bara Sharifpur Mosque	None	None	Chandpur	Laksam	CGCM1320	DofA
+71	Jatra Monir Math 	None	None	Chandpur	Kachua	CGCM1330	DofA
+72	Alipur Shahi Mosque	None	None	Chandpur	Haziganj	None	DofA
+73	Bajra Shahi Mosque 	23.00401N	091.09310E	Noakhali	Begamganj	CGNO0110	DofA
+74	Gandhi Ashram	23.06479N	091.00684E	Noakhali			Sazz
+75	Kamankhola Zominder Bari	None	None	Laxipur			Sazz
+76	Tita Khan Masjid	22.94185N	090.82806E	Laxipur			Sazz
+77	Motka Masjid	22.93715N	090.84167E	Laxipur	Sadar		Sazz
+78	Dalal Zominder Bari	22.96819N	090.80493E	Laxipur	Dalalbazar		Sazz
+79	Khoya Sagor	22.96737N	090.81091E	Laxipur	Dalalbazar		Sazz
+80	Zeener Masjid	23.03457N	090.77125E	Laxipur	Raypur		Sazz
+81	Silua Mound and Image 	None	None	Feni	Chagalnayya	CGFN0210	DofA
+82	Chandgaji Bhuiyan Mosque 	23.08427N	091.49610E	Feni	Chagalnayya	CGFN0220	DofA
+83	Shamsher gazir Kellah 	None	None	Feni	Chagalnayya	CGFN0230	DofA
+84	Mohammad Ali Chowdhury Mosque 	None	None	Feni	Sadar	CGFN0240	DofA
+85	Sharshadi Shahi Mosque 	None	None	Feni	Sadar	CGFN0250	DofA
+86	Sat Math (Seven Temple??)	23.03715N	091.51200E	Feni	Chagalnayya	CGFN0260	DofA
+87	Ulchapaara Shahi Mosque 	None	None	Brahmanbaria	Sadar	CGBB2010	DofA
+88	Arifail Mosque 	None	None	Brahmanbaria	Sarail	CGBB2020	DofA
+89	Arifail Mazar (Tomb) 	None	None	Brahmanbaria	Sarail	CGBB2030	DofA
+90	Bariura old Bridge 	24.05413N	091.15119E	Brahmanbaria	Sarail	CGBB2040	DofA
+91	Ramzan Miah Jami Mosque	None	None	Noakhali	Kabirhat	None	DofA
+92	Arphail twin graves(early 16th century)	24.06379N	091.10979E	Brahmanbaria	Sarail	None	FZaman
+93	Temple of Kalbhairab	23.98563N	091.11275E	Brahmanbaria	Madda	None	FZaman
+94	Muktizuddher Shahid koborsthan	23.67497N	091.17897E	Brahmanbaria	Kasba	None	FZaman
+95	Monument of martyrs of liberation war	23.96326N	091.11258E	Brahmanbaria	None	None	FZaman
+96	Lohagorh Moth	23.18976N	090.72661E	Chandpur	Faridganj	None	FB
+97	Bakshi Hamid Mosque	None	None	Chittagong	None	None	DofA
+98	Shamser Gazir Kellah	None	None	Chittagong	None	None	DofA
+99	Alwal Mosque	None	None	Chittagong	None	None	DofA
+100	Fatehpur Inscription	None	None	Chittagong	None	None	DofA
+101	Buddha dhatu jadi temple	None	None	Bandarban	None	CGBD2110	???DofA
+102	Pagoda	21.43949N	091.98164E	Coxs Bazar	None	None	FZaman
+103	Audience & Hammam of Lalbagh Fort 	23.75775N	090.35921E	Dhaka	Lalbagh	DADH0020	DofA
+104	Bara Katra three storiead Gate of Bara katra 	23.71301N	090.39553E	Dhaka	Kotowali	DADH0040	DofA
+105	Beraid Bhuyanpara Jame Mosque (Ancient Portion) 	None	None	Dhaka	Badda	DADH0060	DofA
+106	Bhajahari Lodge 	None	None	Dhaka	Sutrapur	DADH0070	DofA
+107	Building of Raja Harish Chandra 	None	None	Dhaka	Savar	DADH0080	DofA
+108	Buruj of Raja Harish Chandra 	23.71879N	090.38815E	Dhaka	Savar	DADH0090	DofA
+109	Choto Katra three stored Gate of choto katra 	23.71301N	090.39630E	Dhaka	Kotowali	DADH0120	DofA
+110	Gateway of the South East corner of Lalbagh Fort 	23.71809N	090.38957E	Dhaka	Lalbagh	DADH0160	DofA
+111	Haji Khawja Shahbaj Mosque 	None	None	Dhaka	Ramna	DADH0180	DofA
+112	Jamindar Bari at Sutrapur 	23.72434N	090.40265E	Dhaka	Sutrapur	DADH0200	DofA
+113	Khan Mohammad Mridha Mosque 	None	None	Dhaka	Lalbagh	DADH0220	DofA
+114	Lalbagh Fort 	23.70361N	090.41361E	Dhaka	Lalbagh	DADH0240	DofA
+115	Lalbagh Fort Mosque 	None	None	Dhaka	Lalbagh	DADH0250	DofA
+116	Musa Khan Mosque 	None	None	Dhaka	Ramna	DADH0270	DofA
+117	Nawab Bari Main Gate 	None	None	Dhaka	Kotowali	DADH0280	DofA
+118	Nimtali Deury 	23.72447N	090.40252E	Dhaka	Ramna	DADH0290	DofA
+119	North Brook Hall (Lal Kuthi)	23.70458N	090.41250E	Dhaka	Kotowali	DADH0300	DofA
+120	Old Eidgah at Dhanmandi 	23.74311N	090.37415E	Dhaka	Dhanmondi	DADH0310	DofA
+121	Radha Krishna Temple 	23.65983N	090.14597E	Dhaka	Sutrapur	DADH0350	DofA
+122	Rajashan Mound 	23.72242N	090.39791E	Dhaka	Savar		DofA
+123	Rose Garden 	23.71244N	090.40222E	Dhaka	Sutrapur		DofA
+124	Ruplal House 	23.71722N	090.39849E	Dhaka	Kotowali		DofA
+125	Sat Gumbuz Mosque	23.72308N	090.38999E	Dhaka	Mohammadpur		DofA
+126	Shankhanidhi Dance House 	23.73155N	090.39579E	Dhaka	Sutrapur		DofA
+127	Shankhanidhi House 	23.72999N	090.39739E	Dhaka	Sutrapur		DofA
+128	Temple of Khelaram Data 	23.72931N	090.40551E	Dhaka	Nawabganj		DofA
+129	Tomb near Sat Gumbad Mosque 	23.72277N	090.42041E	Dhaka	Mohammadpur		DofA
+130	Tomb of Bibi Champa 	23.76240N	090.37868E	Dhaka	Kotowali		DofA
+131	Tomb of Colombo Sahib 	23.75058N	090.35626E	Dhaka	Narinda		DofA
+132	Tomb of Haji Khawja Shahbaj 	23.73360N	090.39361E	Dhaka	Ramna		DofA
+133	Tomb of Josaph Paget 	23.73459N	090.39362E	Dhaka	Narinda		DofA
+134	Tomb of Nawab Giasuddin Haider 	23.73267N	090.39199E	Dhaka	Kotowali		DofA
+135	Tomb of Nawab Nasarat Jang 	23.72951N	090.40176E	Dhaka	Kotowali		DofA
+136	Tomb of Nawab Quamarul Daulah 	23.72974N	090.40281E	Dhaka	Kotowali		DofA
+137	Tomb of Pari Bibi 	23.72607N	090.41036E	Dhaka	Lalbagh		DofA
+138	Jinjira Palace and gate (Qasr-i-Jazirah)***	23.70809N	090.39647E	Dhaka	Keraniganj		DofA
+139	Tomb of Nawab Shamsud Daulah	None	None	None	Kotowali	None	DofA
+140	Bhawyal Rajbari	24.00063N	090.42550E	Gazipur	Shibbari		Sazz
+141	Shoshman Ghat Mondir	24.00696N	090.43078E	Gazipur			Sazz
+142	Borai Bari Archaeological Site	None	None	Gazipur	Kaliakoir	DAGZ0910	DofA
+143	church	None	None	Gazipur			Chetona
+144	church	None	None	Gazipur			Chetona
+145	???	None	None	Gazipur			Chetona
+146	Parulia Shahi Mosque	None	None	Narshingdi	Palash	DANS2510	DofA
+147	Asam Rajar Gar (Botashwar) 	None	None	Narshingdi	Belabo	DANS2520	DofA
+148	Paritakto Vita (Wari)	None	None	Narshingdi	Belabo	DANS2530	DofA
+149	Matta Math	None	None	Manikganj	Sadar		Sazz
+150	Sree Sree Anandamayee Kalibari	None	None	Manikganj			Sazz
+151	Rajani Bhaban and Jhobhat Bhaban	None	None	Manikganj			Sazz
+152	Narayan Sadhu Asram	None	None	Manikganj			Sazz
+153	Shivbari Mandir	None	None	Manikganj			Sazz
+154	Neel-kuthi at Bimile	None	None	Manikganj	Sadar		Sazz
+155	Fort at Fordnagar	None	None	Manikganj	Singair		Sazz
+156	Baira Neel-kuthi	None	None	Manikganj	Singair		Sazz
+157	Residence of Datta-Guptas	None	None	Manikganj	Singair		Sazz
+158	Ananda Kuthi and Mandir	None	None	Manikganj	Singair		Sazz
+159	Sen bari and Durga-mandap	None	None	Manikganj	Singair		Sazz
+160	Imampara Jami Masjid	None	None	Manikganj	Singair		Sazz
+161	Tomb of Hazrat Ibrahim Bogdadi	None	None	Manikganj	Singair		Sazz
+162	Kali-sundari Charitable Dispensary	None	None	Manikganj	Singair		Sazz
+163	Ekdala Fort	None	None	Manikganj	Shivalaya		Sazz
+164	Katasgarh Fort	None	None	Manikganj	Shivalaya		Sazz
+165	Fort at Dhaki-jora	None	None	Manikganj	Shivalaya		Sazz
+166	Baher Paglar Astana	None	None	Manikganj	Shivalaya		Sazz
+167	Daschira Buddha-vihara and stupa	None	None	Manikganj	Shivalaya		Sazz
+168	Nabo Rotno Mandir (same as below?)	23.85839N	089.77850E	Manikganj	Teota		FB
+169	Navaratna Math Teota	23.85858N	089.77806E	Manikganj	Shivalay		Sazz
+170	Teota Zamindar Bari	23.85868N	089.77843E	Manikganj	Shivalaya		Sazz
+171	Machain Shahi Jame Masjid	None	None	Manikganj	Shivalaya		DofA
+172	Tomb of Shah Rustam	None	None	Manikganj	Shivalaya		Sazz
+173	Tepra Kali Mandir Sree-bari	None	None	Manikganj	Shivalaya		Sazz
+174	Neel-kuthi at Teota	None	None	Manikganj	Shivalaya		Sazz
+175	Baliati Zamindar Palace	23.99463N	090.04239E	Manikganj	Saturiya		DofA
+176	Dhankora Zamindar bari	23.91756N	090.05995E	Manikganj	Saturiya		Sazz
+177	Tomb of Kalu Shah	None	None	Manikganj	Saturiya		Sazz
+178	Gauranga Math	None	None	Manikganj	Saturiya		Sazz
+179	Neel-kuthi Sreebari	None	None	Manikganj			Sazz
+180	Panch-thubi Bauddha-vihara	None	None	Manikganj	Ghior		Sazz
+181	Jhitka Lokmania Dargah	None	None	Manikganj	Harirampur		Sazz
+182	Kotkandi Jame mosque 	None	None	Manikganj			Sazz
+183	Betila Zominder Bari	23.83742N	090.02441E	Manikganj	Mitura		Sazz
+184	Tomb of Joseph Paget	None	None	Manikganj	Shivalay	None	DofA
+185	Sonarong Jora Temple 	23.52250N	090.45929E	Munshiganj	Tongibari	DAMU2010	DofA
+186	Idrakpur Fort 	23.54739N	090.53407E	Munshiganj	Sadar	DAMU2020	DofA
+187	Tank of Harish Chandra	None	None	Munshiganj	Rampal	DAMU2030	DofA
+188	Kali Mandir	None	None	Munshiganj	Rampal		Mhbb
+189	Baba Adam Mosque 	23.55641N	090.49643E	Munshiganj	Tongibari	DAMU2040	DofA
+190	Mirkadim Bridge 	None	None	Munshiganj	Tongibari	DAMU2050	DofA
+191	Rai Shaheb Bhabon	23.56667N	090.38333E	Munshiganj	Serajdikhan		Sazz
+192	Unknown (ask)	23.52250N	090.45917E	Munshiganj	Tongibari		
+193	Mughal bridge	23.54807N	090.47732E	Munshiganj			Sazz
+194	Deo Bari	23.54920N	090.47617E	Munshiganj			Sazz
+195	Mondol Bari	23.54847N	090.47459E	Munshiganj			Sazz
+196	Unknown Moth	23.51779N	090.51382E	Munshiganj			Sazz
+197	Shyamsiddhir Moth	23.53958N	090.27422E	Munshiganj			Sazz
+198	Harikhali Jomider Bari	23.62748N	090.31076E	Munshiganj			Sazz
+199	Bikrampur Vihara	None	None	Munshiganj			FB
+200	Goaldi Mosque 	23.65650N	090.60001E	Narayanganj	Sonargaon	DANY1000	DofA
+201	Panam City 	23.65575N	090.60268E	Narayanganj	Sonargaon	DANY1010	DofA
+202	Poddar Bari, Panamnogor 	23.65808N	090.60746E	Narayanganj			Sazz
+203	Choto Sardar Bari 	None	None	Narayanganj	Sonargaon	DANY1020	DofA
+204	Tomb of Gaish Uddin Azam Shah 	23.64128N	090.57729E	Narayanganj	Sonargaon	DANY1030	DofA
+205	Taksal Poddar Bari	None	None	Narayanganj	Sonargaon	DANY1040	DofA
+206	Tomb of Haji Baba Saleh 	None	None	Narayanganj	Bandar	DANY1050	DofA
+207	Mozumpur Mosque	None	None	Narayanganj	Sonargaon	DANY1060	DofA
+208	Sonakanda Fort 	23.60696N	090.51201E	Narayanganj	Bandar	DANY1070	DofA
+209	Hajiganj Fort 	23.63335N	090.51272E	Narayanganj	Sadar	DANY1080	DofA
+210	Dewan Bazar College Mosque	None	None	Narayanganj	Newmarket	DANY1090	DofA
+211	Gazir Mound	None	None	Narayanganj	Bandar	DANY1100	DofA
+212	Pagla Bridge 	None	None	Narayanganj	Fatullah	DANY1110	DofA
+213	Tomb of Bibi Maryam 	23.63196N	090.51105E	Narayanganj	Sadar Upazila	DANY1120	DofA
+214	Palace of Murapara 	23.78092N	090.52089E	Narayanganj	Rupganj	DANY1130	DofA
+215	Sabdi Kali Mandir	23.60444N	090.54521E	Narayanganj			Sazz
+216	Tomb of Ibrahim Danishmand	23.63483N	090.58696E	Narayanganj			Sazz
+217	Shonargaon Rajbari	23.64919N	090.60010E	Narayanganj			Sazz
+218	Kodom Rosul	23.63041N	090.51992E	Narayanganj			Sazz
+219	Eptaph, Dorgabari Complex	23.63481N	090.58701E	Narayanganj			Sazz
+220	Shahi Masjid	23.61278N	090.51686E	Narayanganj	Bondor		Sazz
+221	Ponkhiraj Bridge	None	None	Narayanganj	Sonargaon		Sazz
+222	Panam Bridge	None	None	Narayanganj	Sonargaon	None	DofA
+223	Khandakar Mosque	None	None	Narayanganj	Bandar	None	DofA
+224	Math, Chandi Mandup, Pati Mondir	None	None	Narayanganj	Rupganj	None	DofA
+225	Buruj Mound	None	None	Netrokona	Kendua	DANK3010	DofA
+226	Tomb of Dangu Mia	None	None	Netrokona	Kendua	DANK3020	DofA
+227	Roofless old Building (Roayl Bari)	None	None	Netrokona	Kendua	DANK3030	DofA
+228	Bara Deuri Mound 	None	None	Netrokona	Kendua	DANK3040	DofA
+229	Kotbari Fort	None	None	Netrokona	Kendua	DANK3050	DofA
+230	Niamati Bibi Dargah	None	None	Netrokona	Kendua	None	DofA
+231	Ghagra Khan Bari Jami Mosque 	None	None	Sherpur	Jhinaigati	DASP2810	DofA
+232	Nayani Jamidar Bari 	None	None	Sherpur	Sherpur	DASP2820	DofA
+233	Rang Mahal of Nayani Jamindar	None	None	Sherpur	Sherpur	DASP2830	DofA
+234	Aat Ani Zamindar Bari (Surya Kanta Palace)	24.76779N	090.25560E	Mymenshing	Muktagacha	DAMM1530	DofA
+235	Jora Mandir 	None	None	Mymenshing	Muktagacha	DAMM1540	DofA
+236	Three siva Temples 	None	None	Mymenshing	Muktagacha	DAMM1550	DofA
+237	Har Rameshwar Temple 	None	None	Mymenshing	Muktagacha	DAMM1560	DofA
+238	Stone Siva Temple 	None	None	Mymenshing	Muktagacha	DAMM1570	DofA
+239	Dimra Siva Temple 	None	None	Mymenshing	Muktagacha	DAMM1580	???DofA
+240	Mymenshing Museum Building 	None	None	Mymenshing	Mymenshing	DAMM1590	DofA
+241	Shashi Lodge	24.76212N	090.40324E	Mymenshing	Mymenshing	DAMM2010	DofA
+242	Alexander Castle	24.76583N	090.40222E	Mymenshing		DAMM2020	Sazz
+243	Circuit House	24.76741N	090.39973E	Mymenshing		DAMM2021	Sazz
+244	Ananda Mohan College	24.76163N	090.39491E	Mymenshing		DAMM2022	Sazz
+245	Vidyamoyee School	24.75769N	090.40463E	Mymenshing		DAMM2023	Sazz
+246	Gouripur Lodge	24.76117N	090.40863E	Mymenshing		DAMM2024	Sazz
+247	Town Hall ???? (demolished)	None	None	Mymenshing		DAMM2025	Sazz
+248	Muktagacha Zamindar Bari	24.76836N	090.25551E	Mymenshing	Muktagacha		Sazz
+249	Palace of Shashikanta	None	None	Mymenshing	Muktagacha		DofA
+250	Qutub Mosque 	None	None	Kishoreganj	Astogram	DAKS2510	DofA
+251	Shah Mohammad Mosque	24.26138N	090.66383E	Kishoreganj	Pakundia	DAKS2520	DofA
+252	Sadi Mosque 	24.26246N	090.65967E	Kishoreganj	Pakundia	DAKS2530	DofA
+253	Mosque of Aurangazeb 	None	None	Kishoreganj	Pakundia	DAKS2540	DofA
+254	Ghoradighi Mosque	None	None	Kishoreganj			Mhbb
+255	Temple of Poet Dij Bangshi Das 	None	None	Kishoreganj	Kishoreganj	DAKS2550	DofA
+256	Temple of Chandrabati 	24.49564N	090.80100E	Kishoreganj	Kishoreganj	DAKS2560	DofA
+257	Isha Kha Jangal Bari	24.45052N	090.84247E	Kishoreganj	Karimganj	DAKS2570	DofA
+258	Shaheb Bari Jami Mosque 	None	None	Kishoreganj	Tarail	DAKS2580	DofA
+259	Gayebana Masjid	None	None	Kishoreganj	Sadar		Sazz
+260	Horsi Masjid	24.36290N	090.68653E	Kishoreganj	Pakundia		Sazz
+261	Gangutiya Jomider Bari	24.46268N	090.70347E	Kishoreganj			Sazz
+262	Atharobari Jomider Bari	24.63159N	090.71620E	Kishoreganj			Sazz
+263	Dewan Bari Masjid	24.20082N	090.92388E	Kishoreganj			Sazz
+264	Golok Chondro Jomider Bari	24.21258N	090.94727E	Kishoreganj			Sazz
+265	Garai Mosque	None	None	Kishoreganj	Bazitput	None	DofA
+266	Atia Mosque 	24.18410N	089.91136E	Tangail	Delduar	DATA3210	DofA
+267	Mohera Zamindar Bari	24.16226N	090.04235E	Tangail		DATA	Sazz
+268	Delduar Zamindar Bari	24.16208N	089.96678E	Tangail		DATA	Sazz
+269	Nagorpur Zamindar Bari	24.05364N	089.87481E	Tangail		DATA	Sazz
+270	Pakutiya Zamindar Bari	24.02080N	089.98936E	Tangail		DATA	Sazz
+271	Sontosh Zamindar Bari	24.23591N	089.89136E	Tangail		DATA	Sazz
+272	P C Sorker Bari	24.24777N	089.93424E	Tangail		DATA	Sazz
+273	Korotiya Zamindar Bari	24.22358N	089.97858E	Tangail		DATA	Sazz
+274	Dhanbari Zamindar Bari	24.67632N	089.95551E	Tangail		DATA	Sazz
+275	Hemnagar Zamindar Bari	24.56533N	089.85365E	Tangail		DATA	Sazz
+276	Kumudini Trust	24.09718N	090.09342E	Tangail		DATA	Sazz
+277	Balia Zamindar Bari	24.00871N	090.08270E	Tangail		DATA	Sazz
+278	Kadim Hamdani Mosque 	None	None	Tangail	Kalihati	DATA3220	DofA
+279	Molla Bari mosjid	24.34411N	090.28476E	Tangail	Shokhipur		Sazz
+280	Dholapara mosjid	24.34420N	090.09101E	Tangail	Shokhipur		Sazz
+281	Barachowna Old Mosque	24.39615N	090.19021E	Tangail	Shokhipur		Sazz
+282	Sripholtoli Jaminder Bari	24.06842N	090.20972E	Tangail	Kaliakoir		FB
+283	Abdullah Khan Mosque	None	None	Faridpur	Bhanga		Mhbb
+284	Majlish Awlia Mosque 	None	None	Faridpur	Bhanga	DAFR3310	DofA
+285	Kobi Jasimuddin House	23.61304N	089.81946E	Faridpur			Sazz
+286	Mathurapur Deul 	23.56177N	089.62798E	Faridpur	Modhukhali	DAFR3320	DofA
+287	Mazar of Dewan Saker Shah	None	None	Faridpur			Sazz
+288	Moyez Manzil	23.60551N	089.84719E	Faridpur			Sazz
+289	Kamlapur Zamindar mansions	23.60645N	089.84924E	Faridpur			Sazz
+290	Basudeva Mandir	None	None	Faridpur			Sazz
+291	Faridpur Zila School	23.60900N	089.84392E	Faridpur			Sazz
+292	Gerda Shaheb Para	None	None	Faridpur			Sazz
+293	Gerda Masjid	23.56914N	089.87378E	Faridpur			Sazz
+294	Angan Mahanam Sampraday of Hindus	23.59701N	089.82325E	Faridpur			Sazz
+295	Mansion of Kabir Family	23.60519N	089.83566E	Faridpur			Sazz
+296	Mathurapur Deul Modhukhali	23.56177N	089.62798E	Faridpur			Sazz
+297	Shikder Bari	23.54683N	089.77061E	Faridpur	Kanaipur		Sazz
+298	Satoir Masjid Boyalmari	23.43786N	089.66573E	Faridpur			Sazz
+299	Patharail Masjid Bhanga	23.34159N	090.08897E	Faridpur			Sazz
+300	Rajendro Babu Zominder Bari	23.45743N	090.01028E	Faridpur			Sazz
+301	Faridpur District Court	23.60587N	089.84302E	Faridpur			Sazz
+302	Raja Ram Temple 	None	None	Madaripur	Rajoir	DAMD3410	DofA
+303	Char Ani Mosque 	None	None	Shariatpur	Naria	DASA3510	DofA
+304	Single domed Tomb near Char Ani Mosque & Madrasha	None	None	Shariatpur	Naria	DASA3520	DofA
+305	Manasha Temple 	None	None	Shariatpur	Shariatpur	DASA3530	DofA
+306	Durga Temple 	None	None	Shariatpur	Shariatpur	DASA3540	DofA
+307	Bahaltali Ancient Mosque 	None	None	Gopalganj	Kotalipara	DAGG3610	DofA
+308	Residence of Sheikh Mujib and his forefathers	None	None	Gopalganj	Tungipara	None	DofA
+309	House of Michael Madhusudan Dutta 	None	None	Jessore	Keshabpur	KHJS1010	DofA
+310	Memorial Sculpture of Madhusudan Dutta 	None	None	Jessore	Keshabpur	KHJS1020	DofA
+311	Bharat Bhayna 	None	None	Jessore	Keshabpur	KHJS1030	DofA
+312	4 Room Hamman Khana at Mirzanagar Nabab Bari	None	None	Jessore	Keshabpur	KHJS1040	DofA
+313	Sheikhpur Jami Mosque 	None	None	Jessore	Keshabpur	KHJS1050	DofA
+314	Imambara of Haji Mohammad Mohsin 	None	None	Jessore	Jessore	KHJS1060	DofA
+315	Chanchra Siva Temple 	None	None	Jessore	Jessore	KHJS1070	DofA
+316	Dam Dam Pir sthan Dhibi 	None	None	Jessore	Manirampur	KHJS1080	DofA
+317	Kayem Khola Mosque 	None	None	Jessore	Jhikargacha	KHJS1090	DofA
+318	Eleven Siva Temple 	23.00983N	089.43328E	Jessore	Avaynagar	KHJS1100	DofA
+319	Dhulgram Shiva Temple 	22.96628N	089.48274E	Jessore	Avaynagar		Sazz
+320	Pir Khanjahan Ali Jame Mosque	None	None	Jessore	Avaynagar	KHJS1110	DofA
+321	Dosh Moha Bidya Mondir	23.14499N	089.20220E	None	Chanchrha		Sazz
+322	Shiv Mandir	23.14444N	089.20421E	None	Chanchrha		Sazz
+323	Shahi Mosque	None	None	Jessore	Shailakupa	None	DofA
+324	Jor Bangla Temple	None	None	Narail	Lohagara	None	DofA
+325	Gorar Mosque	23.30312N	089.14217E	Jhenaidah	Kaliganj	None	DofA
+326	Palace of Mukut Raja	None	None	Jhenaidah	Kaliganj	None	DofA
+327	Pathagar Dhibi 	None	None	Jhenaidah	Kaliganj	None	DofA
+328	Jor Bangla Masjid	23.30586N	089.13647E	?????	None	None	Sazz
+329	Jor Bangla Dhibi 	None	None	Jhenaidah	Kaliganj	None	DofA
+330	Kharer Dighi Dhibi 	None	None	Jhenaidah	Kaliganj	None	DofA
+331	Monohar Dighi Mosque 	23.30391N	089.13762E	Jhenaidah	Kaliganj	None	DofA
+332	Badedihi Mound 	None	None	Jhenaidah	Kaliganj	None	DofA
+333	Namaj Gaon 	None	None	Jhenaidah	Kaliganj	None	DofA
+334	Dam Dam Dhibi 	None	None	Jhenaidah	Kaliganj	None	DofA
+335	Ghoper Dhibi 	None	None	Jhenaidah	Kaliganj	None	DofA
+336	Shingdaha Aulia Mosque 	None	None	Jhenaidah	Kaliganj	None	DofA
+337	Satgachia Gaibana Mosque 	23.31612N	089.11819E	Jhenaidah	Kaliganj	None	DofA
+338	Zahaj Ghata 	None	None	Jhenaidah	Kaliganj	None	DofA
+339	Galakata Dighi Dhibi Mosque 	23.30584N	089.13876E	Jhenaidah	Kaliganj	None	DofA
+340	Pirpukur Mound	23.30256N	089.14483E	Jhenaidah	Kaliganj	None	DofA
+341	Nungola Mound	23.29811N	089.14718E	Jhenaidah	Kaliganj	None	DofA
+342	Shukur Mallik Mound	23.29786N	089.14273E	Jhenaidah	Kaliganj	None	DofA
+343	Ganitik K P Bose	23.56375N	089.29980E	None	None	None	Sazz
+344	Chompaboti home	23.30924N	089.16254E	None	None	None	Sazz
+345	Jomider Selim Chowdhury	23.42906N	089.16168E	None	None	None	Sazz
+346	Jomider Nobi Chowdhury	23.36463N	088.96521E	None	None	None	Sazz
+347	Noldanga Rajbari	23.42906N	089.16168E	None	None	None	Sazz
+348	Noldanga Mondir	23.44090N	089.16513E	None	None	None	Sazz
+349	Gazi Kalu Tomb	23.30821N	089.16251E	None	None	None	Sazz
+350	Charakdani Masjid	23.30738N	089.13493E	None	None	None	Sazz
+351	Diknagar Mound	None	None	Jhenaidah	Harinakunda	None	DofA
+352	Dr Nihar Ranjan Gupter bari	None	None	Narail	Lohagara	None	DofA
+353	Nilkuthi of Khalishpur	None	None	Jhenaidah	Moheshpur	None	DofA
+354	Pancharatna Mandir (Bhisnu Temple)	None	None	Jhenaidah	Jhenaidah	None	DofA
+355	House of Raja Sita Ram Roy	None	None	Magura	Mohammedpur	KH	DofA
+356	Dasa Bhuja Temple	None	None	Magura	Mohammedpur	KH	DofA
+357	Krishna Temple 	None	None	Magura	Mohammedpur	KH	DofA
+358	Dol Mancha 	None	None	Magura	Mohammedpur	KH	DofA
+359	Bhat Vita Mound	None	None	Magura	Magura	KH	DofA
+360	Kuthibari of Tagore Shilaidah 	None	None	Kushtia	Kumarkhali	KHKU	DofA
+361	Jhaudia Shahi Mosque 	None	None	Kushtia	Sadar	KHKU	DofA
+362	Amjhupi Nilkuthi 	None	None	Meherpur	Sadar	KHME	DofA
+363	Probajpur Shahi Mosque 	None	None	Jhenaidah	Kaliganj	KHST	DofA
+364	Kachari Bari and Pond of Raja Sitaram	None	None	Magura	Mohammedpur	None	DofA
+365	Khulna BL College	None	None	Khulna	Khulna City	KHKL	Mhbb
+366	Prem Kanon	None	None	Khulna	Khulna City	KHKL	Mhbb
+367	Jora Shiv Mandir	None	None	Khulna	Khulna City	KHKL	Mhbb
+368	Keshab Chandra Shangskritik Toll	None	None	Khulna	Khulna City	KHKL	Mhbb
+369	Monument	None	None	Khulna	Khulna City	KHKL	Mhbb
+370	Bhuban Ghosh Residence	None	None	Khulna	Khulna City	KHKL	Mhbb
+371	Shishu Biddyalay	None	None	Khulna	Khulna City	KHKL	Mhbb
+372	Selim Hotel (Tourism Corporation)	None	None	Khulna	Khulna City	KHKL	Mhbb
+373	Banga Khali pre-Cadet School	None	None	Khulna	Khulna City	KHKL	Mhbb
+374	Dak Bangla (Rest House)	None	None	Khulna	Khulna City	KHKL	Mhbb
+375	Ispahani Building	None	None	Khulna	Khulna City	KHKL	Mhbb
+376	Kumud Ghosh Residence	None	None	Khulna	Khulna City	KHKL	Mhbb
+377	Khan-e-Sabur Bhaban	None	None	Khulna	Khulna City	KHKL	Mhbb
+378	Niharika Bhaban	None	None	Khulna	Khulna City	KHKL	Mhbb
+379	Shailendranath Residence	None	None	Khulna	Khulna City	KHKL	Mhbb
+380	Monomohan Maternity Hospital	None	None	Khulna	Khulna City	KHKL	Mhbb
+381	Zilla Parishad Bhaban	None	None	Khulna	Khulna City	KHKL	Mhbb
+382	Divisional Forest Office	None	None	Khulna	Khulna City	KHKL	Mhbb
+383	Civil Surgeon Residence	None	None	Khulna	Khulna City	KHKL	Mhbb
+384	Khulna Circuit House	None	None	Khulna	Khulna City	KHKL	Mhbb
+385	District Judge Court Building	None	None	Khulna	Khulna City	KHKL	Mhbb
+386	Collectorate Bhaban	None	None	Khulna	Khulna City	KHKL	Mhbb
+387	Nagar Bhaban	None	None	Khulna	Khulna City	KHKL	Mhbb
+388	Bisram Niketan	None	None	Khulna	Khulna City	KHKL	Mhbb
+389	Masjeed Kur Mosque 	None	None	Khulna	Koyra	KHKL	DofA
+390	House of Father-in-Law of Robindranath 	None	None	Khulna	Fultala	KHKL	DofA
+391	House of Sir Prafulla Chandra Roy 	None	None	Khulna	Paikgacha	KHKL	DofA
+392	Dhopa Khola Mosque	None	None	Khulna	Koyra	None	DofA
+393	Three Domed Mosque	None	None	Khulna	Fultala	None	DofA
+394	Shat Gumbad Mosque 	22.67451N	089.74183E	Bagerhat	Bagerhat	KHBH0010	DofA
+395	Nine domed Mosque 	22.65839N	089.75549E	Bagerhat	Bagerhat	KHBH0020	DofA
+396	Rana Vijoypur Mosque 	22.66811N	089.75806E	Bagerhat	Bagerhat	KHBH0030	DofA
+397	Singair Mosque 	22.67281N	089.74252E	Bagerhat	Bagerhat	KHBH0040	DofA
+398	Bibi Begni Mosque 	22.67646N	089.73497E	Bagerhat	Bagerhat	KHBH0050	DofA
+399	Chuna Khola Mosque 	22.67857N	089.73212E	Bagerhat	Bagerhat	KHBH0060	DofA
+400	Reja Khoda Mosque 	22.66233N	089.75326E	Bagerhat	Bagerhat	KHBH0070	DofA
+401	Ulugh Khan Jahan Mosque & Residence	22.67819N	089.74322E	Bagerhat	Bagerhat	KHBH0080	DofA
+402	One Dome Mosque Near Khan Jahan's Tomb 	None	None	Bagerhat	Bagerhat	KHBH0090	DofA
+403	Tomb of Khan Jahan 	22.66126N	089.75840E	Bagerhat	Bagerhat	KHBH0100	DofA
+404	Tomb of Peer Ali 	None	None	Bagerhat	Bagerhat	KHBH0110	DofA
+405	Shabek Danga Monument 	None	None	Bagerhat	Bagerhat	KHBH0120	DofA
+406	Kodla Math 	22.74197N	089.77247E	Bagerhat	Bagerhat	KHBH0130	DofA
+407	Zinda Pir Tomb & Masjid	22.66178N	089.75397E	None		KHXXNNNN	Sazz
+408	Jor Bangla Mandir	None	None	None			Sazz
+409	Babu Deben Ghosh	22.73786N	089.64659E	None		KHXXNNNN	Sazz
+410	Sona Masjid	None	None	None			Sazz
+411	Durgapur Shiva Math	None	None	None			Sazz
+412	Ancient Road built by Khan Jahan	None	None	Bagerhat	Bagerhat	None	DofA
+413	Ten-domed Mosque	None	None	Bagerhat	Bagerhat	None	DofA
+414	Adina Arch. Mound	None	None	Bagerhat	Bagerhat	None	DofA
+415	Tetulia Zami Mosque 	None	None	Satkhira	Tala	KHST	DofA
+416	Iswaripur Hammam Khana	None	None	Satkhira	Shyamnagar	KHST	DofA
+417	Hammam & Adjacent Archaeological Sites	None	None	Satkhira	Shyamnagar	KHST	DofA
+418	Probajpur Shahi Mosque	None	None	Satkhira	Kaliganj	None	DofA
+419	Mound adjacent to Govinda Deva temple	None	None	Satkhira	Shyamnagar	None	DofA
+420	Jhurijara Mound	None	None	Satkhira	Tala	None	DofA
+421	Darbar Stamva	None	None	Satkhira	Tala	None	DofA
+422	Church of Jesus	None	None	Satkhira	Shyamnagar	None	DofA
+423	Temple of Joshoreshari	None	None	Satkhira	Shyamnagar	None	DofA
+424	Temple of Sham Shundar	None	None	Satkhira	Kalaroa	None	DofA
+425	Kothabarir Than	None	None	Satkhira	Kalaroa	None	DofA
+426	Chaygharia Jora Siva Temple	None	None	Satkhira	Satkhira	None	DofA
+427	Temple of Annapurna	None	None	Satkhira	Satkhira	None	DofA
+428	Jamindar Bari Jame Mosque	None	None	Satkhira	Satkhira	None	DofA
+429	Twelve Shiva Temple	None	None	Satkhira	Assasuni	None	DofA
+430	Dubalhati Rajbari	24.78662N	088.88312E	None		RSNA	Sazz
+431	Dibor Dighi Stomvo	25.12236N	088.62087E	None	Patnitola???	RSNA	Sazz
+432	Gahon pirbabar Mazar	None	None	None	Patnitola???	RSNA	Sazz
+433	Alta Dighi Dhamoirhat	None	None	None		RSNA	Sazz
+434	Katabari Mazar Patnitola	None	None	None		RSNA	Sazz
+435	Chistia Babar Mazar-Patnitola	None	None	None		RSNA	Sazz
+436	Ragunath Geu Mondir	None	None	None	Mohadevpur,Paharpur	RSNA	Sazz
+437	Mohadevpur Razbari	None	None	None		RSNA	Sazz
+438	Dhibar Pillar 	None	None	None		RSNA	???DofA
+439	3-dome mosque Tahakhana	24.81805N	088.13928E	None	Shibganj	RSNW	Sazz
+440	Chamchika Mosque	None	None	None		RSNW	Sazz
+441	Kotowali Dorwaja	24.84282N	088.14108E	None		RSNW	Sazz
+442	Bagha Mosque 	None	None	Rajshahi	Bagha	RSRS	DofA
+443	Kismat Maria Mosque and Bibir Ghar 	None	None	Rajshahi	Durgapur	RSRS	DofA
+444	Kumarpur Mound of Ali Kuli Beg	None	None	Rajshahi	Godagari	RSRS	DofA
+445	Bara Anhik Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+446	Hawa Khana 	None	None	Rajshahi	Puthia	RSRS	DofA
+447	Putia Rajbari and adjacent Ahnik temple	None	None	Rajshahi	Puthia	RSRS	DofA
+448	Baro Gopal Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+449	Choto Anhik Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+450	Boro Siva Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+451	Choto Gopal Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+452	Jagadhatri Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+453	Gopal Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+454	Choto Siva Temple (Krishnapur) 	None	None	Rajshahi	Puthia	RSRS	DofA
+455	Keshtha Khepar Math 	None	None	Rajshahi	Puthia	RSRS	DofA
+456	Rath Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+457	Dol Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+458	Govinda Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+459	Siva Temple 	None	None	Rajshahi	Puthia	RSRS	DofA
+460	Biharail Mound 	None	None	Rajshahi	Tanore	RSRS	DofA
+461	Dhanora Mound 	None	None	Rajshahi	Tanore	RSRS	DofA
+462	Mounds at Uparbari & Mokarama	None	None	Rajshahi	Godagari	RSRS	DofA
+463	Dewpara tank & Embankment	None	None	Rajshahi	Godagari	RSRS	DofA
+464	Ancient Tank	None	None	Rajshahi	Deoapara	None	DofA
+465	Ancient Shahi Mosque 	None	None	Pabna	Chatmohar	RSPB	DofA
+466	Jagannath Temple 	None	None	Pabna	Chatmohar	RSPB	DofA
+467	Jor Bangla Temple 	24.00148N	089.24509E	Pabna	Raghabpur	RSPB	DofA
+468	Tarash Bhavan 	None	None	Pabna	Pabna	RSPB	DofA
+469	Rabindra Kachari Bari 	None	None	Sirajganj	Shahzadpur	RSPB	DofA
+470	Birat Rajar's Mound and Adjacent sites	None	None	Sirajganj	Raygonj	RSPB	DofA
+471	Bangla Ghar (Temple)	None	None	Sirajganj	Ullahpara	RSPB	DofA
+472	Siva Temple-1	None	None	Sirajganj	Shahzadpur	RSPB	DofA
+473	Nabaratna Temple	None	None	Sirajganj	Shahzadpur	RSPB	DofA
+474	Tomb of Hajrat Makhdum Shah Doula 	None	None	Sirajganj	Shahzadpur	RSPB	DofA
+475	Shahjadpur Dargah Mosque 	None	None	Sirajganj	Shahzadpur	RSPB	DofA
+476	Tomb of Shamsuddin Tabriji	None	None	Sirajganj	Shahzadpur	RSPB	DofA
+477	Potajia Temple 	None	None	Sirajganj	Shahzadpur	RSPB	DofA
+478	Jor Bangla Majar	None	None	Pabna	Bhangura	RSPB	DofA
+479	Dodevi tola Radha Ballav Bigroho	None	None	Pabna	Chatmohar	RSPB	DofA
+480	Madan Gopal Bigroho	None	None	Pabna	Chatmohar	RSPB	DofA
+481	Radhakanta Bigroho	None	None	Pabna	Chatmohar	RSPB	DofA
+482	Tomb of Shambhuchad Thakur	None	None	Pabna	Faridpur	RSPB	DofA
+483	Siva Temple-2	None	None	Sirajganj	Shahzadpur	None	DofA
+484	Small mound (on eastern bank of Tulshiganga)	None	None	Joypurhat	Panchbibi	RSJP	DofA
+485	Archaeological remains of Naopukuria 	None	None	Joypurhat	Panchbibi	RSJP	DofA
+486	Uchai village archaeological remains	None	None	Joypurhat	Panchbibi	RSJP	DofA
+487	Kadia Bari Mound	None	None	Joypurhat	Panchbibi	RSJP	DofA
+488	Dighapatia Rajbari (Uttara Ganobhaban)	None	None	Natore	Natore	RSNT	DofA
+489	Palace of Queen Bhabani of others Mamori	None	None	Natore	Natore	RSNT	DofA
+490	Chalan Bil Museum 	None	None	Natore	Gurudaspur	RSNT	NBR
+491	Gosai Akra	None	None	Natore	Lalpur	None	DofA
+492	Masjid and Majar	None	None	Natore	Lalpur	None	DofA
+493	Somapur Bihar, Paharpur	25.03021N	088.91002E	Naogaon	Badalgachi	RSNA	DofA
+494	Kusumba Masjid	None	None	Naogaon	Manda	RSNA	DofA
+495	Mahisantos Mosque	None	None	Naogaon	Dhamurhat	RSNA	DofA
+496	Balihar Royal Palace	24.84708N	088.80693E	Naogaon	Naogaon	RSNA	DofA
+497	Sattaya Pirer Bhita	None	None	Naogaon	Badalgachi	RSNA	DofA
+498	Halud Vihara 	24.96750N	088.89398E	Naogaon	Badalgachi	RSNA	DofA
+499	Badal Pillar (Bhimer Panti) 	None	None	Naogaon	Dhamurhat	RSNA	DofA
+500	Jagadal Vihara	25.15889N	088.88761E	Naogaon	Dhamurhat	RSNA	DofA
+501	Agradigun Mound 	None	None	Naogaon	Patnitala	RSNA	DofA
+502	Dhubal Hati Palace 	None	None	Naogaon	Naogaon	RSNA	DofA
+503	Rabindra Kacharibari (or Khuthi?) at Patishar	None	None	Naogaon	Atrai	RSNA	DofA
+504	Chowja Mosque	None	None	Naogaon	Manda	None	DofA
+505	Choto Sona Mosque 	24.81370N	088.14315E	Chapai Nawabganj	Shibganj	RSNW	DofA
+506	Darashbari Mosque and Madrasa mound	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+507	Darashbari Madrasha (duplicate???)	24.83294N	088.13851E	Duplicate??	Shibganj	RSNW	???DofA
+508	Shah Niamatullah Wali Mosque 	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+509	Tomb of Shah Niamatullah Wali 	24.81858N	088.13941E	Chapai Nawabganj	Shibganj	RSNW	DofA
+510	Taha-Khana of Shah Shuja 	24.81773N	088.13954E	Chapai Nawabganj	Shibganj	RSNW	DofA
+511	Khania Dighi Mosque 	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+512	Dhani Chalk Mosque 	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+513	Tomb near Chota Sona Mosque 	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+514	Dudh Pukur Mound 	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+515	Tiakathi Calvert-1 	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+516	Tiakathi Calvert-2 	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+517	Fortification wall at Gour	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+518	Khojar Mound 	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+519	Kamura Dighi Mound	None	None	Chapai Nawabganj	Shibganj	RSNW	DofA
+520	Rohanpur ancient monuments	None	None	Chapai Nawabganj	Gomastapur	RSNW	DofA
+521	Nawda Buruj mound and adjacent mounds	None	None	Chapai Nawabganj	Gomastapur	RSNW	DofA
+522	Kansat Palace	None	None	Chapai Nawabganj	Shibganj	None	DofA
+523	Gaur group of monuments	None	None	Chapai Nawabganj	Shibganj	None	DofA
+524	Kherua Mosque	None	None	Bogra	Shibganj	RSBO	DofA
+525	Mahasthangarh	None	None	Bogra	Shibganj	RSBO	DofA
+526	Mahasthan Mosque (Farukh Shiar)	None	None	Bogra	Shibganj	RSBO	???DofA
+527	Chagalnayya Mound 	None	None	Bogra	Shibganj	RSBO	DofA
+528	Govinda Dhap 	24.96297N	089.34573E	Bogra	Shibganj	RSBO	DofA
+529	Laksmindarer Math (Gokul Medh) Dup??	None	None	Bogra	Shibganj	RSBO	???DofA
+530	Khodaipathar Mound 	None	None	Bogra	Shibganj	RSBO	DofA
+531	Mankalir Mound	None	None	Bogra	Shibganj	RSBO	DofA
+532	Palace of Parshuram 	None	None	Bogra	Shibganj	RSBO	DofA
+533	Bairagir Bhita 	None	None	Bogra	Shibganj	RSBO	DofA
+534	Nitai Dhopanir Ghat	None	None	Bogra	Shibganj	RSBO	DofA
+535	Raja Gapinath Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+536	Skandher Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+537	Kamar Palace	None	None	Bogra	Shibganj	RSBO	DofA
+538	Sawdagarer Bhita 	None	None	Bogra	Shibganj	RSBO	DofA
+539	Kancher Angina	None	None	Bogra	Shibganj	RSBO	DofA
+540	Sashti Tala Temple 	None	None	Bogra	Shibganj	RSBO	DofA
+541	Rash Mancha Temple 	None	None	Bogra	Shibganj	RSBO	DofA
+542	Dulo Majhir Bhita 	None	None	Bogra	Shibganj	RSBO	DofA
+543	Ojha Dhannantarir Bhita 	None	None	Bogra	Shibganj	RSBO	DofA
+544	Choto Sannasir Dhap (No-1 Tengrar Dhap) 	None	None	Bogra	Shibganj	RSBO	DofA
+545	Boro Sannasir Dhap (No-2 Tengrar Dhap) 	None	None	Bogra	Shibganj	RSBO	DofA
+546	Narapatir Dhap	None	None	Bogra	Shibganj	RSBO	DofA
+547	Dakinir Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+548	Shur Dighir Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+549	Kanjir Hari Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+550	Dhaniker Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+551	Kanai Dhap	None	None	Bogra	Sadar	RSBO	DofA
+552	Godaibarir Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+553	Malinir Dhap 	None	None	Bogra	Sadar	RSBO	DofA
+554	Khullanar Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+555	Lahanar Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+556	Madar Dargah (or Madarir)	None	None	Bogra	Shibganj	RSBO	DofA
+557	Padmar Bari 	None	None	Bogra	Shibganj	RSBO	DofA
+558	Bish Mardan 	None	None	Bogra	Shibganj	RSBO	DofA
+559	Sannasir Dhap 	None	None	Bogra	Shibganj	RSBO	DofA
+560	Totaram Panditer Dhap	None	None	Bogra	Shibganj	RSBO	DofA
+561	Mongal Kot 	None	None	Bogra	Shibganj	RSBO	DofA
+562	Shalibahan Rajar Bari 	None	None	Bogra	Kahalu	RSBO	DofA
+563	Madar Tala Nishan Ghati 	None	None	Bogra	Shibganj	RSBO	DofA
+564	Dol Mancha 	None	None	Bogra	Shibganj	RSBO	DofA
+565	Jugir Bhaban	None	None	Bogra	Kahalu	RSBO	DofA
+566	Gokul Medh	None	None	Bogra	Shibganj	None	DofA
+567	Dhana Bhandar Mound	None	None	Bogra	Shibganj	None	DofA
+568	Dol Mancha Mound	None	None	Bogra	Shibganj	None	DofA
+569	Jamur Mound	None	None	Bogra	Sherpur	None	DofA
+570	Shajapur Mound	None	None	Bogra	Shahjahanpur	None	DofA
+571	Jiuet Limda	None	None	Bogra	Kahalu	None	DofA
+572	Siva Temple	None	None	Bogra	Kahalu	None	DofA
+573	Sarba Mangala Temple	None	None	Bogra	Kahalu	None	DofA
+574	Kali Temple	None	None	Bogra	Kahalu	None	DofA
+575	Agnikunda	None	None	Bogra	Kahalu	None	DofA
+576	Durga (fort)	None	None	Bogra	Kahalu	None	DofA
+577	Sannasir Dhap (Bhasu Bihar)	None	None	Bogra	None	None	DofA
+578	Narapatir Dhap (Bhasu Bihar)	None	None	Bogra	None	None	DofA
+579	Dholhat Temple 	None	None	Thakurgaon	Sadar	RPTH0610	DofA
+580	Jamalpur Jami Mosque	None	None	Thakurgaon	Sadar	RPTH0620	DofA
+581	Mithapukur Mosque 	None	None	Rangpur	Mithapukur	RPRP0010	DofA
+582	Batashan Mound 	None	None	Rangpur	????	RPRP0020	???DofA
+583	Begum Rokya's House	None	None	Rangpur	Mithapukur	RPRP0030	DofA
+584	Fulchowki Mosque 	None	None	Rangpur	Mithapukur	RPRP0040	DofA
+585	Dargah of Shah Ismail Gaji 	None	None	Rangpur	Pirganj	RPRP0050	DofA
+586	Bagduar Mound 	None	None	Rangpur	Mithapukur	RPRP0060	DofA
+587	Chaprakot Mound 	None	None	Rangpur	Badarganj	RPRP0070	DofA
+588	Laldighi Nine domed Mosque & Tomb.	None	None	Rangpur	Badarganj	RPRP0080	DofA
+589	Tajhat Jamindar Bari 	None	None	Rangpur	Sadar	RPRP0090	DofA
+590	Dariar Durga Mound	None	None	Gaibandha	Palashbari	RPRP0100	DofA
+591	Kataduar Dargah 	None	None	Rangpur	Sadar	RPRP0110	DofA
+592	Bhitor Garh Fort?	26.45000N	088.60833E	Panchagarh			FB
+593	Mirzapur Shahi Mosque 	None	None	Panchagarh	Atowari	RPPN0510	DofA
+594	Imambara (Atowari) 	None	None	Panchagarh	Atowari	RPPN0520	DofA
+595	Bodeshwari Temple 	None	None	Panchagar	Boda	RPPN0530	DofA
+596	Golok Dham Temple 	None	None	Panchagarh	Debiganj	RPPN0540	DofA
+597	Dharmapaler Garh 	None	None	Nilphamari	Jaldhaka	RPNP2050	DofA
+598	Nidaria Mosque 	None	None	Lalmonirhat	Sadar	RPLL0210	DofA
+599	Birat Rajar Bari & Mound 	None	None	Gaibandha	Gabindaganj	RPLL0220	DofA
+600	Fort Mound	None	None	Dinajpur	Bangarh		DofA
+601	Dargah of Shah Ata	None	None	Dinajpur	Gongarampur		DofA
+602	Ancient Kazi Mosque	None	None	Dinajpur	Ulipur		DofA
+603	Sardarpara Jami Mosque 	None	None	Kurigram	Kurigram	RPKR0710	DofA
+604	Mekurtan Shahi Mosque	None	None	Kurigram	Rajarhat	RPKR0720	DofA
+605	Ramsagar Temple 	None	None	Dinajpur	Sadar	RPDJ0310	DofA
+606	Sura Mosque 	None	None	Dinajpur	Ghoraghat	RPDJ0320	DofA
+607	Ancient Mosque (Nayabad) 	None	None	Dinajpur	Kaharol	RPDJ0330	DofA
+608	Ancient Temple	None	None	Dinajpur	Kaharol	RPDJ0340	DofA
+609	Kantanagar Temple 	None	None	Dinajpur	Kaharol	RPDJ0350	DofA
+610	Sita Kot Bihar 	None	None	Dinajpur	Nababganj	RPDJ0360	DofA
+611	Arun Dhap 	None	None	Dinajpur	Nababganj	RPDJ0370	DofA
+612	Chor Chakravorty's Mound 	None	None	Dinajpur	Nababganj	RPDJ0380	DofA
+613	Kanchir Hari	None	None	Dinajpur	Nababganj	RPDJ0390	DofA
+614	Vishnu Temple at Chandipar	25.45493N	088.97062E	None	Birampur		Sazz
+615	Early Pala Hindu Temple, Belwa	25.30000N	089.19167E	None	Ghoraghat		Sazz
+616	Ghoraghat Fort 	None	None	Dinajpur	Ghoraghat	RPDJ0400	DofA
+617	Baro Paiker Garh 	None	None	Dinajpur	Ghoraghat	RPDJ0410	DofA
+618	Baigram Mandir 	None	None	None	Hakimpur	RPDJ0420	DofA???
+619	Gopalganj Temple 	None	None	Dinajpur	Sadar	RPDJ0430	DofA
+620	Mosque at Mahisantosh	None	None	Dinajpur	Patnitala	RPDJ0440	DofA
+621	Panur Dhibi	25.29691N	089.19213E	None	Ghoraghat		Sazz
+622	Ancient Mosque near Begum Rokya's House	None	None	Rangpur	Mithapukur	None	DofA
+623	Longrampart Kell or Fort	None	None	Rangpur	Mithapukur	None	DofA
+624	Laldighi Temple	None	None	Rangpur	Badarganj	None	DofA
+625	Mosque of Kadirbox Mandal	None	None	Gaibandha	Palashbari	None	DofA
+626	Agradigun Mound	None	None	Dinajpur	Ghoraghat	None	DofA
+627	Shiv Mandap	None	None	Dinajpur	Nababganj	None	DofA
+628	Dhibar Pillar	None	None	Dinajpur	Patnitala	None	DofA
+629	Badal Pillar with Pala inscription	None	None	Dinajpur	Mongalbari	None	DofA
+630	Khalpara Ancient mound	None	None	Panchagar	Sadar	None	DofA
+631	Morkdum Garh	None	None	Panchagar	Sadar	None	DofA
+632	Enclosing Wall	None	None	Panchagar	Sadar	None	DofA
+633	Model Bajar Garh	None	None	Panchagar	Sadar	None	DofA
+634	Mehena Bhita Garh	None	None	Panchagar	Sadar	None	DofA
+635	Temple of Sree Chaitanya 	None	None	Sylhet	Golapganj	SYSL0010	DofA
+636	Gayebi Dighi Mosque 	None	None	Sylhet	Zakiganj	SYSL0020	DofA
+637	Group of Megalithic Tombs 	None	None	Sylhet	Joyntapur	SYSL0030	DofA
+638	Shah Jalal Dargah	24.90231N	091.86628E	Sylhet	Sadar	SYSL0040	DofA
+639	Shah Paran Dhargah	24.90673N	091.93473E	Sylhet	Sadar	SYSL0050	DofA
+640	M C College	24.89854N	091.90202E	Sylhet			Sazz
+641	Hazrat Shahjalal's Tomb	24.90231N	091.86628E	Sylhet			Sazz
+642	Kean Bridge	24.88760N	091.86806E	Sylhet			
+643	Ali Amzad Clock	24.88883N	091.86772E	Sylhet			
+644	Circuit House	24.88910N	091.86874E	Sylhet			
+645	Lakkatura Tea Garden	24.91134N	091.88650E	Sylhet			
+646	Bhatera tila Mound	None	None			SYMB0510	DofA
+647	Jaintiaswari Bari	None	None			SYMB0520	DofA
+648	Front of Jaintaswari	None	None			SYMB0530	DofA
+649	Irabati Pantha Shala	None	None			SYMB0540	DofA
+650	Uchail Mosque 	None	None	Habiganj	Sadar	SYHA0610	DofA
+651	Bithangol Bora Akhra 	None	None	Habiganj	Baniachang	SYHA0620	DofA
+652	Baniachong Rajbari	24.52659N	091.35935E	Hobiganj	Baniachang		Sazz
+653	Baniachong Masjid	24.51944N	091.35312E	Hobiganj	Baniachang		Sazz
+654	Bithalong Akhra	24.44611N	091.24597E	Hobiganj	Baniachang		
+655	Songkorpasha Masjid	24.30235N	091.35883E	Hobiganj			
+656	Teen Madir Raja Gambhir Singh	None	None	Sylhet	None	None	DofA
+657	Boter Taal	None	None	Sylhet	None	None	DofA
+658	Puspa Saha House	23.71976N	090.38089E	Dhaka			FB
+659	Chowdhury Bari Moth	None	None	Munshiganj	None	None	FB
+660	Unknown Moth 1	23.52250N	090.45917E	Munshiganj	None	None	FB
+661	Unknown Moth 2	23.51779N	090.51382E	Munshiganj	None	None	None
+662	Puspa Saha Pond	23.71936N	090.38082E	Dhaka	None	None	None
