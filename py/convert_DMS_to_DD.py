@@ -1,12 +1,12 @@
 import arcpy
 
-fc = r'E:\BDArchaeology\DatabaseFinalStaging\AllSitesTables.gdb\AllBDSites'
+fc = r'E:\BDArchaeology\DatabaseFinalStaging\AllSitesTables.gdb\BDSitesWithNoCoordinate'
 #flds = arcpy.ListFields(fc)
 #fnames = [f.name for f in flds if not f.required]
 fnames = ('OBJECTID', 'SITE_NAME', 'DDLat', 'DDLon', 'ZILLA', 'UPAZILLA', 'SITE_ID', 'SOURCE')
 rows = arcpy.da.SearchCursor(fc, fnames)
 
-f = open(r'E:\BDArchaeology\DatabaseFinalStaging\allsites.txt', 'w')
+f = open(r'E:\BDArchaeology\DatabaseFinalStaging\sites_no_coords.txt', 'w')
 
 for r in rows:
     oid = r[0]
